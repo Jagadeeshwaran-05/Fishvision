@@ -1,0 +1,2259 @@
+[
+  {
+    "id": 701,
+    "name": "Stingray 14",
+    "scientific_name": "Dasyatis species_14",
+    "common_names": [
+      "Stingray 14"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 556,
+    "max_weight_kg": 730.3,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Protected - Conservation",
+    "description": "Stingray of genus Dasyatis. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 702,
+    "name": "Stingray 15",
+    "scientific_name": "Dasyatis species_15",
+    "common_names": [
+      "Stingray 15"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 214,
+    "max_weight_kg": 731.4,
+    "max_age_years": 70,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Stingray of genus Dasyatis. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 703,
+    "name": "Whipray 1",
+    "scientific_name": "Himantura species_1",
+    "common_names": [
+      "Whipray 1"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 377,
+    "max_weight_kg": 709.7,
+    "max_age_years": 35,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Protected - Conservation",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 704,
+    "name": "Whipray 2",
+    "scientific_name": "Himantura species_2",
+    "common_names": [
+      "Whipray 2"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 258,
+    "max_weight_kg": 469.5,
+    "max_age_years": 31,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 705,
+    "name": "Whipray 3",
+    "scientific_name": "Himantura species_3",
+    "common_names": [
+      "Whipray 3"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 324,
+    "max_weight_kg": 230.2,
+    "max_age_years": 40,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Protected - Conservation",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 706,
+    "name": "Whipray 4",
+    "scientific_name": "Himantura species_4",
+    "common_names": [
+      "Whipray 4"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 187,
+    "max_weight_kg": 146.3,
+    "max_age_years": 62,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Endangered",
+    "commercial_importance": "Protected - Conservation",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 707,
+    "name": "Whipray 5",
+    "scientific_name": "Himantura species_5",
+    "common_names": [
+      "Whipray 5"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 421,
+    "max_weight_kg": 380.3,
+    "max_age_years": 60,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Critically Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 708,
+    "name": "Whipray 6",
+    "scientific_name": "Himantura species_6",
+    "common_names": [
+      "Whipray 6"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 457,
+    "max_weight_kg": 651.9,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Critically Endangered",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 709,
+    "name": "Whipray 7",
+    "scientific_name": "Himantura species_7",
+    "common_names": [
+      "Whipray 7"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 523,
+    "max_weight_kg": 533.8,
+    "max_age_years": 39,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 710,
+    "name": "Whipray 8",
+    "scientific_name": "Himantura species_8",
+    "common_names": [
+      "Whipray 8"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 152,
+    "max_weight_kg": 352.4,
+    "max_age_years": 68,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Critically Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 711,
+    "name": "Whipray 9",
+    "scientific_name": "Himantura species_9",
+    "common_names": [
+      "Whipray 9"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 140,
+    "max_weight_kg": 162.4,
+    "max_age_years": 33,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 712,
+    "name": "Whipray 10",
+    "scientific_name": "Himantura species_10",
+    "common_names": [
+      "Whipray 10"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 169,
+    "max_weight_kg": 987.9,
+    "max_age_years": 40,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 713,
+    "name": "Whipray 11",
+    "scientific_name": "Himantura species_11",
+    "common_names": [
+      "Whipray 11"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 532,
+    "max_weight_kg": 850.3,
+    "max_age_years": 44,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 714,
+    "name": "Whipray 12",
+    "scientific_name": "Himantura species_12",
+    "common_names": [
+      "Whipray 12"
+    ],
+    "family": "Dasyatidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 294,
+    "max_weight_kg": 857.0,
+    "max_age_years": 59,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Whipray of genus Himantura. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 715,
+    "name": "Sawfish 1",
+    "scientific_name": "Pristis species_1",
+    "common_names": [
+      "Sawfish 1"
+    ],
+    "family": "Pristidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 336,
+    "max_weight_kg": 641.4,
+    "max_age_years": 41,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Sawfish of genus Pristis. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 716,
+    "name": "Sawfish 2",
+    "scientific_name": "Pristis species_2",
+    "common_names": [
+      "Sawfish 2"
+    ],
+    "family": "Pristidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 366,
+    "max_weight_kg": 782.7,
+    "max_age_years": 33,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Critically Endangered",
+    "commercial_importance": "High - Fins, meat",
+    "description": "Sawfish of genus Pristis. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 717,
+    "name": "Sawfish 3",
+    "scientific_name": "Pristis species_3",
+    "common_names": [
+      "Sawfish 3"
+    ],
+    "family": "Pristidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "max_length_cm": 269,
+    "max_weight_kg": 184.6,
+    "max_age_years": 57,
+    "diet": "Carnivore - Fish, rays, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Bycatch",
+    "description": "Sawfish of genus Pristis. Important apex predator in Indian marine ecosystems. Many species are threatened.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 718,
+    "name": "Hilsa 1",
+    "scientific_name": "Tenualosa species_1",
+    "common_names": [
+      "Hilsa 1",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 59,
+    "max_weight_kg": 1.3,
+    "max_age_years": 7,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Prized food fish",
+    "description": "Hilsa is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 719,
+    "name": "Hilsa 2",
+    "scientific_name": "Tenualosa species_2",
+    "common_names": [
+      "Hilsa 2",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 1.3,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Prized food fish",
+    "description": "Hilsa is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 720,
+    "name": "Hilsa 3",
+    "scientific_name": "Tenualosa species_3",
+    "common_names": [
+      "Hilsa 3",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 2.1,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Prized food fish",
+    "description": "Hilsa is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 721,
+    "name": "Indian Ilisha 1",
+    "scientific_name": "Ilisha species_1",
+    "common_names": [
+      "Indian Ilisha 1",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 42,
+    "max_weight_kg": 2.2,
+    "max_age_years": 6,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian Ilisha is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 722,
+    "name": "Indian Ilisha 2",
+    "scientific_name": "Ilisha species_2",
+    "common_names": [
+      "Indian Ilisha 2",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 1.8,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian Ilisha is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 723,
+    "name": "Indian Ilisha 3",
+    "scientific_name": "Ilisha species_3",
+    "common_names": [
+      "Indian Ilisha 3",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 60,
+    "max_weight_kg": 0.8,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian Ilisha is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 724,
+    "name": "Indian Ilisha 4",
+    "scientific_name": "Ilisha species_4",
+    "common_names": [
+      "Indian Ilisha 4",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 29,
+    "max_weight_kg": 1.5,
+    "max_age_years": 7,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian Ilisha is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 725,
+    "name": "Indian Ilisha 5",
+    "scientific_name": "Ilisha species_5",
+    "common_names": [
+      "Indian Ilisha 5",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 46,
+    "max_weight_kg": 0.6,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian Ilisha is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 726,
+    "name": "Corica 1",
+    "scientific_name": "Corica species_1",
+    "common_names": [
+      "Corica 1",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 1.5,
+    "max_age_years": 4,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Corica is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 727,
+    "name": "Corica 2",
+    "scientific_name": "Corica species_2",
+    "common_names": [
+      "Corica 2",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 56,
+    "max_weight_kg": 2.7,
+    "max_age_years": 6,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Corica is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 728,
+    "name": "Corica 3",
+    "scientific_name": "Corica species_3",
+    "common_names": [
+      "Corica 3",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 37,
+    "max_weight_kg": 2.7,
+    "max_age_years": 5,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Corica is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 729,
+    "name": "River Sprat 1",
+    "scientific_name": "Gonialosa species_1",
+    "common_names": [
+      "River Sprat 1",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.7,
+    "max_age_years": 7,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "River Sprat is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 730,
+    "name": "River Sprat 2",
+    "scientific_name": "Gonialosa species_2",
+    "common_names": [
+      "River Sprat 2",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 2.8,
+    "max_age_years": 7,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "River Sprat is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 731,
+    "name": "Indian River Shad 1",
+    "scientific_name": "Gudusia species_1",
+    "common_names": [
+      "Indian River Shad 1",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 1.6,
+    "max_age_years": 4,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian River Shad is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 732,
+    "name": "Indian River Shad 2",
+    "scientific_name": "Gudusia species_2",
+    "common_names": [
+      "Indian River Shad 2",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.0,
+    "max_age_years": 6,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian River Shad is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 733,
+    "name": "Indian River Shad 3",
+    "scientific_name": "Gudusia species_3",
+    "common_names": [
+      "Indian River Shad 3",
+      "Shad"
+    ],
+    "family": "Clupeidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Hooghly River",
+      "Bengal estuaries"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 1.4,
+    "max_age_years": 7,
+    "diet": "Omnivore - Plankton, small fish, algae",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Indian River Shad is an important anadromous fish. Migrates between fresh and marine waters. Highly valued food fish.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 734,
+    "name": "Sleeper Goby 1",
+    "scientific_name": "Butis species_1",
+    "common_names": [
+      "Sleeper Goby 1"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.29,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 735,
+    "name": "Sleeper Goby 2",
+    "scientific_name": "Butis species_2",
+    "common_names": [
+      "Sleeper Goby 2"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.29,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 736,
+    "name": "Sleeper Goby 3",
+    "scientific_name": "Butis species_3",
+    "common_names": [
+      "Sleeper Goby 3"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.29,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 737,
+    "name": "Sleeper Goby 4",
+    "scientific_name": "Butis species_4",
+    "common_names": [
+      "Sleeper Goby 4"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.12,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 738,
+    "name": "Sleeper Goby 5",
+    "scientific_name": "Butis species_5",
+    "common_names": [
+      "Sleeper Goby 5"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.47,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 739,
+    "name": "Sleeper Goby 6",
+    "scientific_name": "Butis species_6",
+    "common_names": [
+      "Sleeper Goby 6"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 0.47,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 740,
+    "name": "Sleeper Goby 7",
+    "scientific_name": "Butis species_7",
+    "common_names": [
+      "Sleeper Goby 7"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.22,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 741,
+    "name": "Sleeper Goby 8",
+    "scientific_name": "Butis species_8",
+    "common_names": [
+      "Sleeper Goby 8"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.26,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Sleeper Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 742,
+    "name": "Snakehead Goby 1",
+    "scientific_name": "Ophiocara species_1",
+    "common_names": [
+      "Snakehead Goby 1"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.3,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Snakehead Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 743,
+    "name": "Snakehead Goby 2",
+    "scientific_name": "Ophiocara species_2",
+    "common_names": [
+      "Snakehead Goby 2"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.26,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Snakehead Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 744,
+    "name": "Snakehead Goby 3",
+    "scientific_name": "Ophiocara species_3",
+    "common_names": [
+      "Snakehead Goby 3"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.2,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Snakehead Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 745,
+    "name": "Snakehead Goby 4",
+    "scientific_name": "Ophiocara species_4",
+    "common_names": [
+      "Snakehead Goby 4"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 0.07,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Snakehead Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 746,
+    "name": "Snakehead Goby 5",
+    "scientific_name": "Ophiocara species_5",
+    "common_names": [
+      "Snakehead Goby 5"
+    ],
+    "family": "Eleotridae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.41,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Snakehead Goby found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 747,
+    "name": "Mudskipper 1",
+    "scientific_name": "Periophthalmus species_1",
+    "common_names": [
+      "Mudskipper 1"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.14,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 748,
+    "name": "Mudskipper 2",
+    "scientific_name": "Periophthalmus species_2",
+    "common_names": [
+      "Mudskipper 2"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.14,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 749,
+    "name": "Mudskipper 3",
+    "scientific_name": "Periophthalmus species_3",
+    "common_names": [
+      "Mudskipper 3"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.1,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 750,
+    "name": "Mudskipper 4",
+    "scientific_name": "Periophthalmus species_4",
+    "common_names": [
+      "Mudskipper 4"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.47,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 751,
+    "name": "Mudskipper 5",
+    "scientific_name": "Periophthalmus species_5",
+    "common_names": [
+      "Mudskipper 5"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.38,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 752,
+    "name": "Mudskipper 6",
+    "scientific_name": "Periophthalmus species_6",
+    "common_names": [
+      "Mudskipper 6"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 0.34,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 753,
+    "name": "Blue Mudskipper 1",
+    "scientific_name": "Boleophthalmus species_1",
+    "common_names": [
+      "Blue Mudskipper 1"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.43,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Blue Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 754,
+    "name": "Blue Mudskipper 2",
+    "scientific_name": "Boleophthalmus species_2",
+    "common_names": [
+      "Blue Mudskipper 2"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.25,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Blue Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 755,
+    "name": "Blue Mudskipper 3",
+    "scientific_name": "Boleophthalmus species_3",
+    "common_names": [
+      "Blue Mudskipper 3"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Mangroves",
+      "Estuaries",
+      "Coastal mudflats"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.2,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small crustaceans, insects, worms",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Mangrove ecosystem",
+    "description": "Blue Mudskipper found in Indian mangrove and estuarine systems. Adapted to brackish water environments.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 756,
+    "name": "Glass Perch 1",
+    "scientific_name": "Ambassis species_1",
+    "common_names": [
+      "Glass Perch 1"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.22,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 757,
+    "name": "Glass Perch 2",
+    "scientific_name": "Ambassis species_2",
+    "common_names": [
+      "Glass Perch 2"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.37,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 758,
+    "name": "Glass Perch 3",
+    "scientific_name": "Ambassis species_3",
+    "common_names": [
+      "Glass Perch 3"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.34,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 759,
+    "name": "Glass Perch 4",
+    "scientific_name": "Ambassis species_4",
+    "common_names": [
+      "Glass Perch 4"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.33,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 760,
+    "name": "Glass Perch 5",
+    "scientific_name": "Ambassis species_5",
+    "common_names": [
+      "Glass Perch 5"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.35,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 761,
+    "name": "Glass Perch 6",
+    "scientific_name": "Ambassis species_6",
+    "common_names": [
+      "Glass Perch 6"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.37,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 762,
+    "name": "Glass Perch 7",
+    "scientific_name": "Ambassis species_7",
+    "common_names": [
+      "Glass Perch 7"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.39,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 763,
+    "name": "Glass Perch 8",
+    "scientific_name": "Ambassis species_8",
+    "common_names": [
+      "Glass Perch 8"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.28,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 764,
+    "name": "Glass Perch 9",
+    "scientific_name": "Ambassis species_9",
+    "common_names": [
+      "Glass Perch 9"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.15,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 765,
+    "name": "Glass Perch 10",
+    "scientific_name": "Ambassis species_10",
+    "common_names": [
+      "Glass Perch 10"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.29,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 766,
+    "name": "Glass Perch 11",
+    "scientific_name": "Ambassis species_11",
+    "common_names": [
+      "Glass Perch 11"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.28,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 767,
+    "name": "Glass Perch 12",
+    "scientific_name": "Ambassis species_12",
+    "common_names": [
+      "Glass Perch 12"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.35,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 768,
+    "name": "Glass Perch 13",
+    "scientific_name": "Ambassis species_13",
+    "common_names": [
+      "Glass Perch 13"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.09,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 769,
+    "name": "Glass Perch 14",
+    "scientific_name": "Ambassis species_14",
+    "common_names": [
+      "Glass Perch 14"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.29,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 770,
+    "name": "Glass Perch 15",
+    "scientific_name": "Ambassis species_15",
+    "common_names": [
+      "Glass Perch 15"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.11,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 771,
+    "name": "Glass Perch 16",
+    "scientific_name": "Ambassis species_16",
+    "common_names": [
+      "Glass Perch 16"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.38,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 772,
+    "name": "Glass Perch 17",
+    "scientific_name": "Ambassis species_17",
+    "common_names": [
+      "Glass Perch 17"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.26,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 773,
+    "name": "Glass Perch 18",
+    "scientific_name": "Ambassis species_18",
+    "common_names": [
+      "Glass Perch 18"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.14,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 774,
+    "name": "Glass Perch 19",
+    "scientific_name": "Ambassis species_19",
+    "common_names": [
+      "Glass Perch 19"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.36,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 775,
+    "name": "Glass Perch 20",
+    "scientific_name": "Ambassis species_20",
+    "common_names": [
+      "Glass Perch 20"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.39,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 776,
+    "name": "Glass Perch 21",
+    "scientific_name": "Ambassis species_21",
+    "common_names": [
+      "Glass Perch 21"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.26,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 777,
+    "name": "Glass Perch 22",
+    "scientific_name": "Ambassis species_22",
+    "common_names": [
+      "Glass Perch 22"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.14,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 778,
+    "name": "Glass Perch 23",
+    "scientific_name": "Ambassis species_23",
+    "common_names": [
+      "Glass Perch 23"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.18,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 779,
+    "name": "Glass Perch 24",
+    "scientific_name": "Ambassis species_24",
+    "common_names": [
+      "Glass Perch 24"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.36,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 780,
+    "name": "Glass Perch 25",
+    "scientific_name": "Ambassis species_25",
+    "common_names": [
+      "Glass Perch 25"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.21,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Perch is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 781,
+    "name": "Chromide 1",
+    "scientific_name": "Etroplus species_1",
+    "common_names": [
+      "Chromide 1"
+    ],
+    "family": "Cichlidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.28,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Endemic cichlid",
+    "description": "Chromide is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 782,
+    "name": "Chromide 2",
+    "scientific_name": "Etroplus species_2",
+    "common_names": [
+      "Chromide 2"
+    ],
+    "family": "Cichlidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.33,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Endemic cichlid",
+    "description": "Chromide is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 783,
+    "name": "Chromide 3",
+    "scientific_name": "Etroplus species_3",
+    "common_names": [
+      "Chromide 3"
+    ],
+    "family": "Cichlidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.29,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Endemic cichlid",
+    "description": "Chromide is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 784,
+    "name": "Glass Fish 1",
+    "scientific_name": "Chanda species_1",
+    "common_names": [
+      "Glass Fish 1"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.16,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 785,
+    "name": "Glass Fish 2",
+    "scientific_name": "Chanda species_2",
+    "common_names": [
+      "Glass Fish 2"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.4,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 786,
+    "name": "Glass Fish 3",
+    "scientific_name": "Chanda species_3",
+    "common_names": [
+      "Glass Fish 3"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.37,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 787,
+    "name": "Glass Fish 4",
+    "scientific_name": "Chanda species_4",
+    "common_names": [
+      "Glass Fish 4"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.39,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 788,
+    "name": "Glass Fish 5",
+    "scientific_name": "Chanda species_5",
+    "common_names": [
+      "Glass Fish 5"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.31,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 789,
+    "name": "Glass Fish 6",
+    "scientific_name": "Chanda species_6",
+    "common_names": [
+      "Glass Fish 6"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.29,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 790,
+    "name": "Glass Fish 7",
+    "scientific_name": "Chanda species_7",
+    "common_names": [
+      "Glass Fish 7"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.18,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 791,
+    "name": "Glass Fish 8",
+    "scientific_name": "Chanda species_8",
+    "common_names": [
+      "Glass Fish 8"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.34,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 792,
+    "name": "Glass Fish 9",
+    "scientific_name": "Chanda species_9",
+    "common_names": [
+      "Glass Fish 9"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.37,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 793,
+    "name": "Glass Fish 10",
+    "scientific_name": "Chanda species_10",
+    "common_names": [
+      "Glass Fish 10"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.29,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 794,
+    "name": "Glass Fish 11",
+    "scientific_name": "Chanda species_11",
+    "common_names": [
+      "Glass Fish 11"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.27,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 795,
+    "name": "Glass Fish 12",
+    "scientific_name": "Chanda species_12",
+    "common_names": [
+      "Glass Fish 12"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.32,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 796,
+    "name": "Indian Glass Fish 1",
+    "scientific_name": "Parambassis species_1",
+    "common_names": [
+      "Indian Glass Fish 1"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.26,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 797,
+    "name": "Indian Glass Fish 2",
+    "scientific_name": "Parambassis species_2",
+    "common_names": [
+      "Indian Glass Fish 2"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.36,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 798,
+    "name": "Indian Glass Fish 3",
+    "scientific_name": "Parambassis species_3",
+    "common_names": [
+      "Indian Glass Fish 3"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.37,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 799,
+    "name": "Indian Glass Fish 4",
+    "scientific_name": "Parambassis species_4",
+    "common_names": [
+      "Indian Glass Fish 4"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.31,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 800,
+    "name": "Indian Glass Fish 5",
+    "scientific_name": "Parambassis species_5",
+    "common_names": [
+      "Indian Glass Fish 5"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.13,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  }
+]

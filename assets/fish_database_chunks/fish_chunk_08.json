@@ -1,0 +1,2210 @@
+[
+  {
+    "id": 801,
+    "name": "Indian Glass Fish 6",
+    "scientific_name": "Parambassis species_6",
+    "common_names": [
+      "Indian Glass Fish 6"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.31,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 802,
+    "name": "Indian Glass Fish 7",
+    "scientific_name": "Parambassis species_7",
+    "common_names": [
+      "Indian Glass Fish 7"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.35,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 803,
+    "name": "Indian Glass Fish 8",
+    "scientific_name": "Parambassis species_8",
+    "common_names": [
+      "Indian Glass Fish 8"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.02,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 804,
+    "name": "Indian Glass Fish 9",
+    "scientific_name": "Parambassis species_9",
+    "common_names": [
+      "Indian Glass Fish 9"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.08,
+    "max_age_years": 2,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 805,
+    "name": "Indian Glass Fish 10",
+    "scientific_name": "Parambassis species_10",
+    "common_names": [
+      "Indian Glass Fish 10"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.14,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 806,
+    "name": "Indian Glass Fish 11",
+    "scientific_name": "Parambassis species_11",
+    "common_names": [
+      "Indian Glass Fish 11"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.25,
+    "max_age_years": 6,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 807,
+    "name": "Indian Glass Fish 12",
+    "scientific_name": "Parambassis species_12",
+    "common_names": [
+      "Indian Glass Fish 12"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.25,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 808,
+    "name": "Indian Glass Fish 13",
+    "scientific_name": "Parambassis species_13",
+    "common_names": [
+      "Indian Glass Fish 13"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.02,
+    "max_age_years": 3,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 809,
+    "name": "Indian Glass Fish 14",
+    "scientific_name": "Parambassis species_14",
+    "common_names": [
+      "Indian Glass Fish 14"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.28,
+    "max_age_years": 4,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 810,
+    "name": "Indian Glass Fish 15",
+    "scientific_name": "Parambassis species_15",
+    "common_names": [
+      "Indian Glass Fish 15"
+    ],
+    "family": "Ambassidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.05,
+    "max_age_years": 5,
+    "diet": "Carnivore - Zooplankton, small insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ornamental fish",
+    "description": "Indian Glass Fish is a small, transparent fish. Important in aquarium trade and stream ecosystems.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 811,
+    "name": "Snakehead 1",
+    "scientific_name": "Channa species_1",
+    "common_names": [
+      "Snakehead 1",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 12.5,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 812,
+    "name": "Snakehead 2",
+    "scientific_name": "Channa species_2",
+    "common_names": [
+      "Snakehead 2",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 50,
+    "max_weight_kg": 9.1,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 813,
+    "name": "Snakehead 3",
+    "scientific_name": "Channa species_3",
+    "common_names": [
+      "Snakehead 3",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India",
+      "Wetlands"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 12.3,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 814,
+    "name": "Snakehead 4",
+    "scientific_name": "Channa species_4",
+    "common_names": [
+      "Snakehead 4",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "South Indian rivers"
+    ],
+    "max_length_cm": 52,
+    "max_weight_kg": 8.0,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 815,
+    "name": "Snakehead 5",
+    "scientific_name": "Channa species_5",
+    "common_names": [
+      "Snakehead 5",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 10.1,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 816,
+    "name": "Snakehead 6",
+    "scientific_name": "Channa species_6",
+    "common_names": [
+      "Snakehead 6",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 40,
+    "max_weight_kg": 10.4,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 817,
+    "name": "Snakehead 7",
+    "scientific_name": "Channa species_7",
+    "common_names": [
+      "Snakehead 7",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Brahmaputra"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 11.9,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 818,
+    "name": "Snakehead 8",
+    "scientific_name": "Channa species_8",
+    "common_names": [
+      "Snakehead 8",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "South Indian rivers"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 14.8,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 819,
+    "name": "Snakehead 9",
+    "scientific_name": "Channa species_9",
+    "common_names": [
+      "Snakehead 9",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Brahmaputra"
+    ],
+    "max_length_cm": 119,
+    "max_weight_kg": 4.4,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 820,
+    "name": "Snakehead 10",
+    "scientific_name": "Channa species_10",
+    "common_names": [
+      "Snakehead 10",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "South Indian rivers"
+    ],
+    "max_length_cm": 82,
+    "max_weight_kg": 10.2,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 821,
+    "name": "Snakehead 11",
+    "scientific_name": "Channa species_11",
+    "common_names": [
+      "Snakehead 11",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Brahmaputra"
+    ],
+    "max_length_cm": 43,
+    "max_weight_kg": 13.4,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 822,
+    "name": "Snakehead 12",
+    "scientific_name": "Channa species_12",
+    "common_names": [
+      "Snakehead 12",
+      "Murrel"
+    ],
+    "family": "Channidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 104,
+    "max_weight_kg": 14.2,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, frogs, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish, air-breathing",
+    "description": "Predatory snakehead fish. Air-breathing fish that can survive in oxygen-depleted water. Important food fish.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 823,
+    "name": "Freshwater Eel 1",
+    "scientific_name": "Anguilla species_1",
+    "common_names": [
+      "Freshwater Eel 1",
+      "Eel"
+    ],
+    "family": "Anguillidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 166,
+    "max_weight_kg": 20.4,
+    "max_age_years": 17,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Freshwater Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 824,
+    "name": "Freshwater Eel 2",
+    "scientific_name": "Anguilla species_2",
+    "common_names": [
+      "Freshwater Eel 2",
+      "Eel"
+    ],
+    "family": "Anguillidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 135,
+    "max_weight_kg": 24.1,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Freshwater Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 825,
+    "name": "Freshwater Eel 3",
+    "scientific_name": "Anguilla species_3",
+    "common_names": [
+      "Freshwater Eel 3",
+      "Eel"
+    ],
+    "family": "Anguillidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 56,
+    "max_weight_kg": 9.0,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Freshwater Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 826,
+    "name": "Swamp Eel 1",
+    "scientific_name": "Monopterus species_1",
+    "common_names": [
+      "Swamp Eel 1",
+      "Eel"
+    ],
+    "family": "Synbranchidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 171,
+    "max_weight_kg": 4.1,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Swamp Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 827,
+    "name": "Swamp Eel 2",
+    "scientific_name": "Monopterus species_2",
+    "common_names": [
+      "Swamp Eel 2",
+      "Eel"
+    ],
+    "family": "Synbranchidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 79,
+    "max_weight_kg": 28.8,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Swamp Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 828,
+    "name": "Spiny Eel 1",
+    "scientific_name": "Mastacembelus species_1",
+    "common_names": [
+      "Spiny Eel 1",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 168,
+    "max_weight_kg": 28.3,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 829,
+    "name": "Spiny Eel 2",
+    "scientific_name": "Mastacembelus species_2",
+    "common_names": [
+      "Spiny Eel 2",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 178,
+    "max_weight_kg": 11.1,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 830,
+    "name": "Spiny Eel 3",
+    "scientific_name": "Mastacembelus species_3",
+    "common_names": [
+      "Spiny Eel 3",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 78,
+    "max_weight_kg": 14.9,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 831,
+    "name": "Spiny Eel 4",
+    "scientific_name": "Mastacembelus species_4",
+    "common_names": [
+      "Spiny Eel 4",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 149,
+    "max_weight_kg": 17.5,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 832,
+    "name": "Spiny Eel 5",
+    "scientific_name": "Mastacembelus species_5",
+    "common_names": [
+      "Spiny Eel 5",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 129,
+    "max_weight_kg": 22.2,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 833,
+    "name": "Spiny Eel 6",
+    "scientific_name": "Mastacembelus species_6",
+    "common_names": [
+      "Spiny Eel 6",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 196,
+    "max_weight_kg": 28.2,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 834,
+    "name": "Spiny Eel 7",
+    "scientific_name": "Mastacembelus species_7",
+    "common_names": [
+      "Spiny Eel 7",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 178,
+    "max_weight_kg": 22.9,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 835,
+    "name": "Spiny Eel 8",
+    "scientific_name": "Mastacembelus species_8",
+    "common_names": [
+      "Spiny Eel 8",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 181,
+    "max_weight_kg": 29.9,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 836,
+    "name": "Spiny Eel 9",
+    "scientific_name": "Mastacembelus species_9",
+    "common_names": [
+      "Spiny Eel 9",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 112,
+    "max_weight_kg": 21.3,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 837,
+    "name": "Spiny Eel 10",
+    "scientific_name": "Mastacembelus species_10",
+    "common_names": [
+      "Spiny Eel 10",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 158,
+    "max_weight_kg": 27.5,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 838,
+    "name": "Spiny Eel 11",
+    "scientific_name": "Mastacembelus species_11",
+    "common_names": [
+      "Spiny Eel 11",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 192,
+    "max_weight_kg": 12.8,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 839,
+    "name": "Spiny Eel 12",
+    "scientific_name": "Mastacembelus species_12",
+    "common_names": [
+      "Spiny Eel 12",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 94,
+    "max_weight_kg": 20.6,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 840,
+    "name": "Spiny Eel 13",
+    "scientific_name": "Mastacembelus species_13",
+    "common_names": [
+      "Spiny Eel 13",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 41,
+    "max_weight_kg": 15.3,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 841,
+    "name": "Spiny Eel 14",
+    "scientific_name": "Mastacembelus species_14",
+    "common_names": [
+      "Spiny Eel 14",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 180,
+    "max_weight_kg": 28.8,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 842,
+    "name": "Spiny Eel 15",
+    "scientific_name": "Mastacembelus species_15",
+    "common_names": [
+      "Spiny Eel 15",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 86,
+    "max_weight_kg": 20.9,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Spiny Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 843,
+    "name": "Peacock Eel 1",
+    "scientific_name": "Macrognathus species_1",
+    "common_names": [
+      "Peacock Eel 1",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 169,
+    "max_weight_kg": 29.6,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 844,
+    "name": "Peacock Eel 2",
+    "scientific_name": "Macrognathus species_2",
+    "common_names": [
+      "Peacock Eel 2",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 64,
+    "max_weight_kg": 15.4,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 845,
+    "name": "Peacock Eel 3",
+    "scientific_name": "Macrognathus species_3",
+    "common_names": [
+      "Peacock Eel 3",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 79,
+    "max_weight_kg": 22.4,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 846,
+    "name": "Peacock Eel 4",
+    "scientific_name": "Macrognathus species_4",
+    "common_names": [
+      "Peacock Eel 4",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 192,
+    "max_weight_kg": 12.0,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 847,
+    "name": "Peacock Eel 5",
+    "scientific_name": "Macrognathus species_5",
+    "common_names": [
+      "Peacock Eel 5",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 151,
+    "max_weight_kg": 7.6,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 848,
+    "name": "Peacock Eel 6",
+    "scientific_name": "Macrognathus species_6",
+    "common_names": [
+      "Peacock Eel 6",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 167,
+    "max_weight_kg": 18.1,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 849,
+    "name": "Peacock Eel 7",
+    "scientific_name": "Macrognathus species_7",
+    "common_names": [
+      "Peacock Eel 7",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 112,
+    "max_weight_kg": 4.7,
+    "max_age_years": 17,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 850,
+    "name": "Peacock Eel 8",
+    "scientific_name": "Macrognathus species_8",
+    "common_names": [
+      "Peacock Eel 8",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 157,
+    "max_weight_kg": 14.4,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 851,
+    "name": "Peacock Eel 9",
+    "scientific_name": "Macrognathus species_9",
+    "common_names": [
+      "Peacock Eel 9",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 11.5,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 852,
+    "name": "Peacock Eel 10",
+    "scientific_name": "Macrognathus species_10",
+    "common_names": [
+      "Peacock Eel 10",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 38,
+    "max_weight_kg": 17.5,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 853,
+    "name": "Peacock Eel 11",
+    "scientific_name": "Macrognathus species_11",
+    "common_names": [
+      "Peacock Eel 11",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 96,
+    "max_weight_kg": 15.8,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 854,
+    "name": "Peacock Eel 12",
+    "scientific_name": "Macrognathus species_12",
+    "common_names": [
+      "Peacock Eel 12",
+      "Eel"
+    ],
+    "family": "Mastacembelidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Throughout India"
+    ],
+    "max_length_cm": 52,
+    "max_weight_kg": 20.0,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Food fish",
+    "description": "Elongated Peacock Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 855,
+    "name": "Moray Eel 1",
+    "scientific_name": "Gymnothorax species_1",
+    "common_names": [
+      "Moray Eel 1",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 69,
+    "max_weight_kg": 4.0,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 856,
+    "name": "Moray Eel 2",
+    "scientific_name": "Gymnothorax species_2",
+    "common_names": [
+      "Moray Eel 2",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 134,
+    "max_weight_kg": 19.3,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 857,
+    "name": "Moray Eel 3",
+    "scientific_name": "Gymnothorax species_3",
+    "common_names": [
+      "Moray Eel 3",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 155,
+    "max_weight_kg": 15.3,
+    "max_age_years": 17,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 858,
+    "name": "Moray Eel 4",
+    "scientific_name": "Gymnothorax species_4",
+    "common_names": [
+      "Moray Eel 4",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 84,
+    "max_weight_kg": 11.9,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 859,
+    "name": "Moray Eel 5",
+    "scientific_name": "Gymnothorax species_5",
+    "common_names": [
+      "Moray Eel 5",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 173,
+    "max_weight_kg": 11.9,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 860,
+    "name": "Moray Eel 6",
+    "scientific_name": "Gymnothorax species_6",
+    "common_names": [
+      "Moray Eel 6",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 170,
+    "max_weight_kg": 21.3,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 861,
+    "name": "Moray Eel 7",
+    "scientific_name": "Gymnothorax species_7",
+    "common_names": [
+      "Moray Eel 7",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 47,
+    "max_weight_kg": 5.8,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 862,
+    "name": "Moray Eel 8",
+    "scientific_name": "Gymnothorax species_8",
+    "common_names": [
+      "Moray Eel 8",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 51,
+    "max_weight_kg": 23.3,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 863,
+    "name": "Moray Eel 9",
+    "scientific_name": "Gymnothorax species_9",
+    "common_names": [
+      "Moray Eel 9",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 46,
+    "max_weight_kg": 24.7,
+    "max_age_years": 17,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 864,
+    "name": "Moray Eel 10",
+    "scientific_name": "Gymnothorax species_10",
+    "common_names": [
+      "Moray Eel 10",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 198,
+    "max_weight_kg": 8.7,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 865,
+    "name": "Moray Eel 11",
+    "scientific_name": "Gymnothorax species_11",
+    "common_names": [
+      "Moray Eel 11",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 148,
+    "max_weight_kg": 26.7,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 866,
+    "name": "Moray Eel 12",
+    "scientific_name": "Gymnothorax species_12",
+    "common_names": [
+      "Moray Eel 12",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 119,
+    "max_weight_kg": 21.2,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 867,
+    "name": "Moray Eel 13",
+    "scientific_name": "Gymnothorax species_13",
+    "common_names": [
+      "Moray Eel 13",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 113,
+    "max_weight_kg": 21.5,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 868,
+    "name": "Moray Eel 14",
+    "scientific_name": "Gymnothorax species_14",
+    "common_names": [
+      "Moray Eel 14",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 36,
+    "max_weight_kg": 10.2,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 869,
+    "name": "Moray Eel 15",
+    "scientific_name": "Gymnothorax species_15",
+    "common_names": [
+      "Moray Eel 15",
+      "Eel"
+    ],
+    "family": "Muraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coral reefs",
+      "Rocky shores"
+    ],
+    "max_length_cm": 59,
+    "max_weight_kg": 14.7,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Predator",
+    "description": "Elongated Moray Eel found in Indian waters. Nocturnal predator with excellent sense of smell.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 870,
+    "name": "Halfbeak 1",
+    "scientific_name": "Hyporhamphus species_1",
+    "common_names": [
+      "Halfbeak 1"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 0.6,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 871,
+    "name": "Halfbeak 2",
+    "scientific_name": "Hyporhamphus species_2",
+    "common_names": [
+      "Halfbeak 2"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 2.2,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 872,
+    "name": "Halfbeak 3",
+    "scientific_name": "Hyporhamphus species_3",
+    "common_names": [
+      "Halfbeak 3"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 46,
+    "max_weight_kg": 2.6,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 873,
+    "name": "Halfbeak 4",
+    "scientific_name": "Hyporhamphus species_4",
+    "common_names": [
+      "Halfbeak 4"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 63,
+    "max_weight_kg": 1.1,
+    "max_age_years": 7,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 874,
+    "name": "Halfbeak 5",
+    "scientific_name": "Hyporhamphus species_5",
+    "common_names": [
+      "Halfbeak 5"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 76,
+    "max_weight_kg": 4.3,
+    "max_age_years": 7,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 875,
+    "name": "Halfbeak 6",
+    "scientific_name": "Hyporhamphus species_6",
+    "common_names": [
+      "Halfbeak 6"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 85,
+    "max_weight_kg": 3.2,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 876,
+    "name": "Halfbeak 7",
+    "scientific_name": "Hyporhamphus species_7",
+    "common_names": [
+      "Halfbeak 7"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 68,
+    "max_weight_kg": 2.8,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 877,
+    "name": "Halfbeak 8",
+    "scientific_name": "Hyporhamphus species_8",
+    "common_names": [
+      "Halfbeak 8"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 49,
+    "max_weight_kg": 4.6,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 878,
+    "name": "Halfbeak 9",
+    "scientific_name": "Hyporhamphus species_9",
+    "common_names": [
+      "Halfbeak 9"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 4.6,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 879,
+    "name": "Halfbeak 10",
+    "scientific_name": "Hyporhamphus species_10",
+    "common_names": [
+      "Halfbeak 10"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 36,
+    "max_weight_kg": 1.4,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 880,
+    "name": "Halfbeak 11",
+    "scientific_name": "Hyporhamphus species_11",
+    "common_names": [
+      "Halfbeak 11"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 52,
+    "max_weight_kg": 0.7,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 881,
+    "name": "Halfbeak 12",
+    "scientific_name": "Hyporhamphus species_12",
+    "common_names": [
+      "Halfbeak 12"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 45,
+    "max_weight_kg": 2.6,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 882,
+    "name": "River Halfbeak 1",
+    "scientific_name": "Zenarchopterus species_1",
+    "common_names": [
+      "River Halfbeak 1"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 79,
+    "max_weight_kg": 3.6,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "River Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 883,
+    "name": "River Halfbeak 2",
+    "scientific_name": "Zenarchopterus species_2",
+    "common_names": [
+      "River Halfbeak 2"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 52,
+    "max_weight_kg": 3.9,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "River Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 884,
+    "name": "River Halfbeak 3",
+    "scientific_name": "Zenarchopterus species_3",
+    "common_names": [
+      "River Halfbeak 3"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 65,
+    "max_weight_kg": 1.6,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "River Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 885,
+    "name": "River Halfbeak 4",
+    "scientific_name": "Zenarchopterus species_4",
+    "common_names": [
+      "River Halfbeak 4"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 54,
+    "max_weight_kg": 4.5,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "River Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 886,
+    "name": "River Halfbeak 5",
+    "scientific_name": "Zenarchopterus species_5",
+    "common_names": [
+      "River Halfbeak 5"
+    ],
+    "family": "Hemiramphidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 72,
+    "max_weight_kg": 3.0,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "River Halfbeak with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 887,
+    "name": "Needlefish 1",
+    "scientific_name": "Strongylura species_1",
+    "common_names": [
+      "Needlefish 1"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 60,
+    "max_weight_kg": 1.2,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 888,
+    "name": "Needlefish 2",
+    "scientific_name": "Strongylura species_2",
+    "common_names": [
+      "Needlefish 2"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 45,
+    "max_weight_kg": 4.0,
+    "max_age_years": 7,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 889,
+    "name": "Needlefish 3",
+    "scientific_name": "Strongylura species_3",
+    "common_names": [
+      "Needlefish 3"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 80,
+    "max_weight_kg": 3.8,
+    "max_age_years": 5,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 890,
+    "name": "Needlefish 4",
+    "scientific_name": "Strongylura species_4",
+    "common_names": [
+      "Needlefish 4"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 62,
+    "max_weight_kg": 0.9,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 891,
+    "name": "Needlefish 5",
+    "scientific_name": "Strongylura species_5",
+    "common_names": [
+      "Needlefish 5"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 88,
+    "max_weight_kg": 0.5,
+    "max_age_years": 6,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 892,
+    "name": "Needlefish 6",
+    "scientific_name": "Strongylura species_6",
+    "common_names": [
+      "Needlefish 6"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 1.7,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 893,
+    "name": "Needlefish 7",
+    "scientific_name": "Strongylura species_7",
+    "common_names": [
+      "Needlefish 7"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 3.7,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 894,
+    "name": "Needlefish 8",
+    "scientific_name": "Strongylura species_8",
+    "common_names": [
+      "Needlefish 8"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 75,
+    "max_weight_kg": 1.6,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 895,
+    "name": "Needlefish 9",
+    "scientific_name": "Strongylura species_9",
+    "common_names": [
+      "Needlefish 9"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 1.5,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 896,
+    "name": "Needlefish 10",
+    "scientific_name": "Strongylura species_10",
+    "common_names": [
+      "Needlefish 10"
+    ],
+    "family": "Belonidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Coastal waters",
+      "Estuaries"
+    ],
+    "max_length_cm": 85,
+    "max_weight_kg": 2.8,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Needlefish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 897,
+    "name": "Freshwater Garfish 1",
+    "scientific_name": "Xenentodon species_1",
+    "common_names": [
+      "Freshwater Garfish 1"
+    ],
+    "family": "Belonidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Rivers",
+      "Lakes"
+    ],
+    "max_length_cm": 48,
+    "max_weight_kg": 0.4,
+    "max_age_years": 7,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Freshwater Garfish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 898,
+    "name": "Freshwater Garfish 2",
+    "scientific_name": "Xenentodon species_2",
+    "common_names": [
+      "Freshwater Garfish 2"
+    ],
+    "family": "Belonidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Rivers",
+      "Lakes"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.9,
+    "max_age_years": 3,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Freshwater Garfish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 899,
+    "name": "Freshwater Garfish 3",
+    "scientific_name": "Xenentodon species_3",
+    "common_names": [
+      "Freshwater Garfish 3"
+    ],
+    "family": "Belonidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Rivers",
+      "Lakes"
+    ],
+    "max_length_cm": 65,
+    "max_weight_kg": 4.5,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small fish, shrimp",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Bait fish, food fish",
+    "description": "Freshwater Garfish with elongated jaws. Surface-dwelling predator feeding on small fish and crustaceans.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 900,
+    "name": "Anchovy 1",
+    "scientific_name": "Stolephorus species_1",
+    "common_names": [
+      "Anchovy 1"
+    ],
+    "family": "Engraulidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.23,
+    "max_age_years": 4,
+    "diet": "Filter feeder - Plankton",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Major fishery, fish meal",
+    "description": "Small pelagic fish forming large schools. Important for commercial fisheries and marine food web.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  }
+]

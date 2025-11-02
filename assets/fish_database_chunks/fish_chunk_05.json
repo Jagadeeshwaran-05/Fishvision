@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 501,
+    "name": "Grouper 4",
+    "scientific_name": "Epinephelus species_4",
+    "common_names": [
+      "Grouper 4",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 238,
+    "max_weight_kg": 16.0,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 502,
+    "name": "Grouper 5",
+    "scientific_name": "Epinephelus species_5",
+    "common_names": [
+      "Grouper 5",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 173,
+    "max_weight_kg": 13.5,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 503,
+    "name": "Grouper 6",
+    "scientific_name": "Epinephelus species_6",
+    "common_names": [
+      "Grouper 6",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 209,
+    "max_weight_kg": 62.4,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 504,
+    "name": "Grouper 7",
+    "scientific_name": "Epinephelus species_7",
+    "common_names": [
+      "Grouper 7",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 205,
+    "max_weight_kg": 139.5,
+    "max_age_years": 33,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 505,
+    "name": "Grouper 8",
+    "scientific_name": "Epinephelus species_8",
+    "common_names": [
+      "Grouper 8",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 244,
+    "max_weight_kg": 147.4,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 506,
+    "name": "Grouper 9",
+    "scientific_name": "Epinephelus species_9",
+    "common_names": [
+      "Grouper 9",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 98,
+    "max_weight_kg": 138.0,
+    "max_age_years": 31,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 507,
+    "name": "Grouper 10",
+    "scientific_name": "Epinephelus species_10",
+    "common_names": [
+      "Grouper 10",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 243,
+    "max_weight_kg": 96.8,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 508,
+    "name": "Grouper 11",
+    "scientific_name": "Epinephelus species_11",
+    "common_names": [
+      "Grouper 11",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 197,
+    "max_weight_kg": 68.7,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 509,
+    "name": "Grouper 12",
+    "scientific_name": "Epinephelus species_12",
+    "common_names": [
+      "Grouper 12",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 67,
+    "max_weight_kg": 140.7,
+    "max_age_years": 29,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 510,
+    "name": "Grouper 13",
+    "scientific_name": "Epinephelus species_13",
+    "common_names": [
+      "Grouper 13",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 238,
+    "max_weight_kg": 44.6,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 511,
+    "name": "Grouper 14",
+    "scientific_name": "Epinephelus species_14",
+    "common_names": [
+      "Grouper 14",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 137.1,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 512,
+    "name": "Grouper 15",
+    "scientific_name": "Epinephelus species_15",
+    "common_names": [
+      "Grouper 15",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 235,
+    "max_weight_kg": 144.8,
+    "max_age_years": 29,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 513,
+    "name": "Grouper 16",
+    "scientific_name": "Epinephelus species_16",
+    "common_names": [
+      "Grouper 16",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 105,
+    "max_weight_kg": 116.4,
+    "max_age_years": 23,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 514,
+    "name": "Grouper 17",
+    "scientific_name": "Epinephelus species_17",
+    "common_names": [
+      "Grouper 17",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 127,
+    "max_weight_kg": 126.5,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 515,
+    "name": "Grouper 18",
+    "scientific_name": "Epinephelus species_18",
+    "common_names": [
+      "Grouper 18",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 214,
+    "max_weight_kg": 10.6,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 516,
+    "name": "Grouper 19",
+    "scientific_name": "Epinephelus species_19",
+    "common_names": [
+      "Grouper 19",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 38,
+    "max_weight_kg": 140.0,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 517,
+    "name": "Grouper 20",
+    "scientific_name": "Epinephelus species_20",
+    "common_names": [
+      "Grouper 20",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 190,
+    "max_weight_kg": 137.1,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 518,
+    "name": "Grouper 21",
+    "scientific_name": "Epinephelus species_21",
+    "common_names": [
+      "Grouper 21",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 183,
+    "max_weight_kg": 126.6,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 519,
+    "name": "Grouper 22",
+    "scientific_name": "Epinephelus species_22",
+    "common_names": [
+      "Grouper 22",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 181,
+    "max_weight_kg": 33.2,
+    "max_age_years": 35,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 520,
+    "name": "Grouper 23",
+    "scientific_name": "Epinephelus species_23",
+    "common_names": [
+      "Grouper 23",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 130,
+    "max_weight_kg": 32.7,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 521,
+    "name": "Grouper 24",
+    "scientific_name": "Epinephelus species_24",
+    "common_names": [
+      "Grouper 24",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 83,
+    "max_weight_kg": 86.9,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 522,
+    "name": "Grouper 25",
+    "scientific_name": "Epinephelus species_25",
+    "common_names": [
+      "Grouper 25",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 128,
+    "max_weight_kg": 64.8,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 523,
+    "name": "Grouper 26",
+    "scientific_name": "Epinephelus species_26",
+    "common_names": [
+      "Grouper 26",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 211,
+    "max_weight_kg": 12.3,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 524,
+    "name": "Grouper 27",
+    "scientific_name": "Epinephelus species_27",
+    "common_names": [
+      "Grouper 27",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 49,
+    "max_weight_kg": 149.3,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 525,
+    "name": "Grouper 28",
+    "scientific_name": "Epinephelus species_28",
+    "common_names": [
+      "Grouper 28",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 196,
+    "max_weight_kg": 54.0,
+    "max_age_years": 33,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 526,
+    "name": "Grouper 29",
+    "scientific_name": "Epinephelus species_29",
+    "common_names": [
+      "Grouper 29",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 158,
+    "max_weight_kg": 42.8,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 527,
+    "name": "Grouper 30",
+    "scientific_name": "Epinephelus species_30",
+    "common_names": [
+      "Grouper 30",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 227,
+    "max_weight_kg": 55.4,
+    "max_age_years": 26,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 528,
+    "name": "Grouper 31",
+    "scientific_name": "Epinephelus species_31",
+    "common_names": [
+      "Grouper 31",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 203,
+    "max_weight_kg": 49.7,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 529,
+    "name": "Grouper 32",
+    "scientific_name": "Epinephelus species_32",
+    "common_names": [
+      "Grouper 32",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 200,
+    "max_weight_kg": 11.7,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 530,
+    "name": "Grouper 33",
+    "scientific_name": "Epinephelus species_33",
+    "common_names": [
+      "Grouper 33",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 186,
+    "max_weight_kg": 137.9,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 531,
+    "name": "Grouper 34",
+    "scientific_name": "Epinephelus species_34",
+    "common_names": [
+      "Grouper 34",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 174,
+    "max_weight_kg": 47.6,
+    "max_age_years": 26,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 532,
+    "name": "Grouper 35",
+    "scientific_name": "Epinephelus species_35",
+    "common_names": [
+      "Grouper 35",
+      "Grouper"
+    ],
+    "family": "Serranidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 206,
+    "max_weight_kg": 5.4,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Grouper of genus Epinephelus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 533,
+    "name": "Snapper 1",
+    "scientific_name": "Lutjanus species_1",
+    "common_names": [
+      "Snapper 1",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 97,
+    "max_weight_kg": 115.8,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 534,
+    "name": "Snapper 2",
+    "scientific_name": "Lutjanus species_2",
+    "common_names": [
+      "Snapper 2",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 76,
+    "max_weight_kg": 135.1,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 535,
+    "name": "Snapper 3",
+    "scientific_name": "Lutjanus species_3",
+    "common_names": [
+      "Snapper 3",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 157,
+    "max_weight_kg": 111.2,
+    "max_age_years": 34,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 536,
+    "name": "Snapper 4",
+    "scientific_name": "Lutjanus species_4",
+    "common_names": [
+      "Snapper 4",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 83,
+    "max_weight_kg": 135.5,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 537,
+    "name": "Snapper 5",
+    "scientific_name": "Lutjanus species_5",
+    "common_names": [
+      "Snapper 5",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 98.1,
+    "max_age_years": 31,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 538,
+    "name": "Snapper 6",
+    "scientific_name": "Lutjanus species_6",
+    "common_names": [
+      "Snapper 6",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 180,
+    "max_weight_kg": 12.5,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 539,
+    "name": "Snapper 7",
+    "scientific_name": "Lutjanus species_7",
+    "common_names": [
+      "Snapper 7",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 77,
+    "max_weight_kg": 103.3,
+    "max_age_years": 23,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 540,
+    "name": "Snapper 8",
+    "scientific_name": "Lutjanus species_8",
+    "common_names": [
+      "Snapper 8",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 74.0,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 541,
+    "name": "Snapper 9",
+    "scientific_name": "Lutjanus species_9",
+    "common_names": [
+      "Snapper 9",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 71,
+    "max_weight_kg": 93.7,
+    "max_age_years": 34,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 542,
+    "name": "Snapper 10",
+    "scientific_name": "Lutjanus species_10",
+    "common_names": [
+      "Snapper 10",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 86,
+    "max_weight_kg": 43.1,
+    "max_age_years": 33,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 543,
+    "name": "Snapper 11",
+    "scientific_name": "Lutjanus species_11",
+    "common_names": [
+      "Snapper 11",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 198,
+    "max_weight_kg": 130.7,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 544,
+    "name": "Snapper 12",
+    "scientific_name": "Lutjanus species_12",
+    "common_names": [
+      "Snapper 12",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 237,
+    "max_weight_kg": 21.2,
+    "max_age_years": 17,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 545,
+    "name": "Snapper 13",
+    "scientific_name": "Lutjanus species_13",
+    "common_names": [
+      "Snapper 13",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 182,
+    "max_weight_kg": 131.9,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 546,
+    "name": "Snapper 14",
+    "scientific_name": "Lutjanus species_14",
+    "common_names": [
+      "Snapper 14",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 203,
+    "max_weight_kg": 111.8,
+    "max_age_years": 29,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 547,
+    "name": "Snapper 15",
+    "scientific_name": "Lutjanus species_15",
+    "common_names": [
+      "Snapper 15",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 249,
+    "max_weight_kg": 91.5,
+    "max_age_years": 32,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 548,
+    "name": "Snapper 16",
+    "scientific_name": "Lutjanus species_16",
+    "common_names": [
+      "Snapper 16",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 182,
+    "max_weight_kg": 145.7,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 549,
+    "name": "Snapper 17",
+    "scientific_name": "Lutjanus species_17",
+    "common_names": [
+      "Snapper 17",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 93,
+    "max_weight_kg": 70.7,
+    "max_age_years": 28,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 550,
+    "name": "Snapper 18",
+    "scientific_name": "Lutjanus species_18",
+    "common_names": [
+      "Snapper 18",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 167,
+    "max_weight_kg": 90.4,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 551,
+    "name": "Snapper 19",
+    "scientific_name": "Lutjanus species_19",
+    "common_names": [
+      "Snapper 19",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 96,
+    "max_weight_kg": 57.7,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 552,
+    "name": "Snapper 20",
+    "scientific_name": "Lutjanus species_20",
+    "common_names": [
+      "Snapper 20",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 216,
+    "max_weight_kg": 103.5,
+    "max_age_years": 22,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 553,
+    "name": "Snapper 21",
+    "scientific_name": "Lutjanus species_21",
+    "common_names": [
+      "Snapper 21",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 208,
+    "max_weight_kg": 19.4,
+    "max_age_years": 31,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 554,
+    "name": "Snapper 22",
+    "scientific_name": "Lutjanus species_22",
+    "common_names": [
+      "Snapper 22",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 54,
+    "max_weight_kg": 9.7,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 555,
+    "name": "Snapper 23",
+    "scientific_name": "Lutjanus species_23",
+    "common_names": [
+      "Snapper 23",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 32.0,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 556,
+    "name": "Snapper 24",
+    "scientific_name": "Lutjanus species_24",
+    "common_names": [
+      "Snapper 24",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 133.7,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 557,
+    "name": "Snapper 25",
+    "scientific_name": "Lutjanus species_25",
+    "common_names": [
+      "Snapper 25",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 3.5,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 558,
+    "name": "Snapper 26",
+    "scientific_name": "Lutjanus species_26",
+    "common_names": [
+      "Snapper 26",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 196,
+    "max_weight_kg": 75.9,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 559,
+    "name": "Snapper 27",
+    "scientific_name": "Lutjanus species_27",
+    "common_names": [
+      "Snapper 27",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 36,
+    "max_weight_kg": 59.1,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 560,
+    "name": "Snapper 28",
+    "scientific_name": "Lutjanus species_28",
+    "common_names": [
+      "Snapper 28",
+      "Snapper"
+    ],
+    "family": "Lutjanidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 224,
+    "max_weight_kg": 125.3,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Snapper of genus Lutjanus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 561,
+    "name": "Emperor 1",
+    "scientific_name": "Lethrinus species_1",
+    "common_names": [
+      "Emperor 1",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 39,
+    "max_weight_kg": 81.9,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 562,
+    "name": "Emperor 2",
+    "scientific_name": "Lethrinus species_2",
+    "common_names": [
+      "Emperor 2",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 240,
+    "max_weight_kg": 119.4,
+    "max_age_years": 21,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 563,
+    "name": "Emperor 3",
+    "scientific_name": "Lethrinus species_3",
+    "common_names": [
+      "Emperor 3",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 84,
+    "max_weight_kg": 92.7,
+    "max_age_years": 25,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 564,
+    "name": "Emperor 4",
+    "scientific_name": "Lethrinus species_4",
+    "common_names": [
+      "Emperor 4",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 176,
+    "max_weight_kg": 27.5,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 565,
+    "name": "Emperor 5",
+    "scientific_name": "Lethrinus species_5",
+    "common_names": [
+      "Emperor 5",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 237,
+    "max_weight_kg": 141.8,
+    "max_age_years": 25,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 566,
+    "name": "Emperor 6",
+    "scientific_name": "Lethrinus species_6",
+    "common_names": [
+      "Emperor 6",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 211,
+    "max_weight_kg": 148.3,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 567,
+    "name": "Emperor 7",
+    "scientific_name": "Lethrinus species_7",
+    "common_names": [
+      "Emperor 7",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 195,
+    "max_weight_kg": 118.1,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 568,
+    "name": "Emperor 8",
+    "scientific_name": "Lethrinus species_8",
+    "common_names": [
+      "Emperor 8",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 200,
+    "max_weight_kg": 7.8,
+    "max_age_years": 35,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 569,
+    "name": "Emperor 9",
+    "scientific_name": "Lethrinus species_9",
+    "common_names": [
+      "Emperor 9",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 49,
+    "max_weight_kg": 72.2,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 570,
+    "name": "Emperor 10",
+    "scientific_name": "Lethrinus species_10",
+    "common_names": [
+      "Emperor 10",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 209,
+    "max_weight_kg": 55.2,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 571,
+    "name": "Emperor 11",
+    "scientific_name": "Lethrinus species_11",
+    "common_names": [
+      "Emperor 11",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 197,
+    "max_weight_kg": 85.7,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 572,
+    "name": "Emperor 12",
+    "scientific_name": "Lethrinus species_12",
+    "common_names": [
+      "Emperor 12",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 150,
+    "max_weight_kg": 93.0,
+    "max_age_years": 18,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 573,
+    "name": "Emperor 13",
+    "scientific_name": "Lethrinus species_13",
+    "common_names": [
+      "Emperor 13",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 234,
+    "max_weight_kg": 55.7,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 574,
+    "name": "Emperor 14",
+    "scientific_name": "Lethrinus species_14",
+    "common_names": [
+      "Emperor 14",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 48,
+    "max_weight_kg": 76.9,
+    "max_age_years": 35,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 575,
+    "name": "Emperor 15",
+    "scientific_name": "Lethrinus species_15",
+    "common_names": [
+      "Emperor 15",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 90,
+    "max_weight_kg": 103.9,
+    "max_age_years": 32,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 576,
+    "name": "Emperor 16",
+    "scientific_name": "Lethrinus species_16",
+    "common_names": [
+      "Emperor 16",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 197,
+    "max_weight_kg": 125.4,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 577,
+    "name": "Emperor 17",
+    "scientific_name": "Lethrinus species_17",
+    "common_names": [
+      "Emperor 17",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 204,
+    "max_weight_kg": 110.6,
+    "max_age_years": 16,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 578,
+    "name": "Emperor 18",
+    "scientific_name": "Lethrinus species_18",
+    "common_names": [
+      "Emperor 18",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 204,
+    "max_weight_kg": 28.9,
+    "max_age_years": 32,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 579,
+    "name": "Emperor 19",
+    "scientific_name": "Lethrinus species_19",
+    "common_names": [
+      "Emperor 19",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 210,
+    "max_weight_kg": 87.3,
+    "max_age_years": 28,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 580,
+    "name": "Emperor 20",
+    "scientific_name": "Lethrinus species_20",
+    "common_names": [
+      "Emperor 20",
+      "Emperor"
+    ],
+    "family": "Lethrinidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 124,
+    "max_weight_kg": 143.4,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Emperor of genus Lethrinus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 581,
+    "name": "Mackerel 1",
+    "scientific_name": "Scomberomorus species_1",
+    "common_names": [
+      "Mackerel 1",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 246,
+    "max_weight_kg": 86.9,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 582,
+    "name": "Mackerel 2",
+    "scientific_name": "Scomberomorus species_2",
+    "common_names": [
+      "Mackerel 2",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 77,
+    "max_weight_kg": 60.0,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 583,
+    "name": "Mackerel 3",
+    "scientific_name": "Scomberomorus species_3",
+    "common_names": [
+      "Mackerel 3",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 25.5,
+    "max_age_years": 32,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 584,
+    "name": "Mackerel 4",
+    "scientific_name": "Scomberomorus species_4",
+    "common_names": [
+      "Mackerel 4",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Indian Ocean waters"
+    ],
+    "max_length_cm": 212,
+    "max_weight_kg": 122.9,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 585,
+    "name": "Mackerel 5",
+    "scientific_name": "Scomberomorus species_5",
+    "common_names": [
+      "Mackerel 5",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 94,
+    "max_weight_kg": 87.5,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 586,
+    "name": "Mackerel 6",
+    "scientific_name": "Scomberomorus species_6",
+    "common_names": [
+      "Mackerel 6",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 123,
+    "max_weight_kg": 41.0,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 587,
+    "name": "Mackerel 7",
+    "scientific_name": "Scomberomorus species_7",
+    "common_names": [
+      "Mackerel 7",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 1.0,
+    "max_age_years": 19,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 588,
+    "name": "Mackerel 8",
+    "scientific_name": "Scomberomorus species_8",
+    "common_names": [
+      "Mackerel 8",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Lakshadweep",
+      "Andaman and Nicobar"
+    ],
+    "max_length_cm": 121,
+    "max_weight_kg": 5.5,
+    "max_age_years": 20,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 589,
+    "name": "Mackerel 9",
+    "scientific_name": "Scomberomorus species_9",
+    "common_names": [
+      "Mackerel 9",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 39,
+    "max_weight_kg": 28.5,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 590,
+    "name": "Mackerel 10",
+    "scientific_name": "Scomberomorus species_10",
+    "common_names": [
+      "Mackerel 10",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 78,
+    "max_weight_kg": 42.7,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 591,
+    "name": "Mackerel 11",
+    "scientific_name": "Scomberomorus species_11",
+    "common_names": [
+      "Mackerel 11",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 208,
+    "max_weight_kg": 2.7,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 592,
+    "name": "Mackerel 12",
+    "scientific_name": "Scomberomorus species_12",
+    "common_names": [
+      "Mackerel 12",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 155,
+    "max_weight_kg": 97.7,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 593,
+    "name": "Mackerel 13",
+    "scientific_name": "Scomberomorus species_13",
+    "common_names": [
+      "Mackerel 13",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 159,
+    "max_weight_kg": 29.5,
+    "max_age_years": 22,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 594,
+    "name": "Mackerel 14",
+    "scientific_name": "Scomberomorus species_14",
+    "common_names": [
+      "Mackerel 14",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 177,
+    "max_weight_kg": 102.4,
+    "max_age_years": 28,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=400"
+  },
+  {
+    "id": 595,
+    "name": "Mackerel 15",
+    "scientific_name": "Scomberomorus species_15",
+    "common_names": [
+      "Mackerel 15",
+      "Mackerel"
+    ],
+    "family": "Scombridae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 48,
+    "max_weight_kg": 31.8,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Mackerel of genus Scomberomorus found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 596,
+    "name": "Barracuda 1",
+    "scientific_name": "Sphyraena species_1",
+    "common_names": [
+      "Barracuda 1",
+      "Barracuda"
+    ],
+    "family": "Sphyraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 92,
+    "max_weight_kg": 79.3,
+    "max_age_years": 30,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Barracuda of genus Sphyraena found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 597,
+    "name": "Barracuda 2",
+    "scientific_name": "Sphyraena species_2",
+    "common_names": [
+      "Barracuda 2",
+      "Barracuda"
+    ],
+    "family": "Sphyraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 223,
+    "max_weight_kg": 59.5,
+    "max_age_years": 26,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Barracuda of genus Sphyraena found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 598,
+    "name": "Barracuda 3",
+    "scientific_name": "Sphyraena species_3",
+    "common_names": [
+      "Barracuda 3",
+      "Barracuda"
+    ],
+    "family": "Sphyraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Arabian Sea",
+      "Gujarat Coast"
+    ],
+    "max_length_cm": 174,
+    "max_weight_kg": 122.1,
+    "max_age_years": 27,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Export quality",
+    "description": "Marine Barracuda of genus Sphyraena found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 599,
+    "name": "Barracuda 4",
+    "scientific_name": "Sphyraena species_4",
+    "common_names": [
+      "Barracuda 4",
+      "Barracuda"
+    ],
+    "family": "Sphyraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Kerala Coast",
+      "Tamil Nadu Coast"
+    ],
+    "max_length_cm": 125,
+    "max_weight_kg": 118.1,
+    "max_age_years": 34,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Commercial fishery",
+    "description": "Marine Barracuda of genus Sphyraena found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 600,
+    "name": "Barracuda 5",
+    "scientific_name": "Sphyraena species_5",
+    "common_names": [
+      "Barracuda 5",
+      "Barracuda"
+    ],
+    "family": "Sphyraenidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "max_length_cm": 104,
+    "max_weight_kg": 56.4,
+    "max_age_years": 24,
+    "diet": "Carnivore - Fish, crustaceans, molluscs",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "Medium - Local markets",
+    "description": "Marine Barracuda of genus Sphyraena found in Indian coastal waters. Important commercial species.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "total_species": 1011,
+  "total_chunks": 11,
+  "chunk_size": 100,
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "file": "fish_chunk_00.json",
+      "species_count": 100,
+      "start_id": 1,
+      "end_id": 100
+    },
+    {
+      "chunk_id": 1,
+      "file": "fish_chunk_01.json",
+      "species_count": 100,
+      "start_id": 101,
+      "end_id": 200
+    },
+    {
+      "chunk_id": 2,
+      "file": "fish_chunk_02.json",
+      "species_count": 100,
+      "start_id": 201,
+      "end_id": 300
+    },
+    {
+      "chunk_id": 3,
+      "file": "fish_chunk_03.json",
+      "species_count": 100,
+      "start_id": 301,
+      "end_id": 400
+    },
+    {
+      "chunk_id": 4,
+      "file": "fish_chunk_04.json",
+      "species_count": 100,
+      "start_id": 401,
+      "end_id": 500
+    },
+    {
+      "chunk_id": 5,
+      "file": "fish_chunk_05.json",
+      "species_count": 100,
+      "start_id": 501,
+      "end_id": 600
+    },
+    {
+      "chunk_id": 6,
+      "file": "fish_chunk_06.json",
+      "species_count": 100,
+      "start_id": 601,
+      "end_id": 700
+    },
+    {
+      "chunk_id": 7,
+      "file": "fish_chunk_07.json",
+      "species_count": 100,
+      "start_id": 701,
+      "end_id": 800
+    },
+    {
+      "chunk_id": 8,
+      "file": "fish_chunk_08.json",
+      "species_count": 100,
+      "start_id": 801,
+      "end_id": 900
+    },
+    {
+      "chunk_id": 9,
+      "file": "fish_chunk_09.json",
+      "species_count": 100,
+      "start_id": 901,
+      "end_id": 1000
+    },
+    {
+      "chunk_id": 10,
+      "file": "fish_chunk_10.json",
+      "species_count": 11,
+      "start_id": 1001,
+      "end_id": 1011
+    }
+  ],
+  "statistics": {
+    "freshwater": 546,
+    "marine": 361,
+    "brackish": 104
+  }
+}

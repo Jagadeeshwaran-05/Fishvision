@@ -1,0 +1,2276 @@
+[
+  {
+    "id": 301,
+    "name": "Devario 14",
+    "scientific_name": "Devario species_14",
+    "common_names": [
+      "Devario 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.24,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 302,
+    "name": "Devario 15",
+    "scientific_name": "Devario species_15",
+    "common_names": [
+      "Devario 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 2.38,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 303,
+    "name": "Devario 16",
+    "scientific_name": "Devario species_16",
+    "common_names": [
+      "Devario 16"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.5,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 304,
+    "name": "Devario 17",
+    "scientific_name": "Devario species_17",
+    "common_names": [
+      "Devario 17"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 2.31,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 305,
+    "name": "Devario 18",
+    "scientific_name": "Devario species_18",
+    "common_names": [
+      "Devario 18"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 2.37,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 306,
+    "name": "Devario 19",
+    "scientific_name": "Devario species_19",
+    "common_names": [
+      "Devario 19"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 1.65,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 307,
+    "name": "Devario 20",
+    "scientific_name": "Devario species_20",
+    "common_names": [
+      "Devario 20"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 2.33,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 308,
+    "name": "Devario 21",
+    "scientific_name": "Devario species_21",
+    "common_names": [
+      "Devario 21"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 2.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 309,
+    "name": "Devario 22",
+    "scientific_name": "Devario species_22",
+    "common_names": [
+      "Devario 22"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 1.99,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 310,
+    "name": "Devario 23",
+    "scientific_name": "Devario species_23",
+    "common_names": [
+      "Devario 23"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.2,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 311,
+    "name": "Devario 24",
+    "scientific_name": "Devario species_24",
+    "common_names": [
+      "Devario 24"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 1.71,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 312,
+    "name": "Devario 25",
+    "scientific_name": "Devario species_25",
+    "common_names": [
+      "Devario 25"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.33,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 313,
+    "name": "Devario 26",
+    "scientific_name": "Devario species_26",
+    "common_names": [
+      "Devario 26"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.44,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 314,
+    "name": "Devario 27",
+    "scientific_name": "Devario species_27",
+    "common_names": [
+      "Devario 27"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.75,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 315,
+    "name": "Devario 28",
+    "scientific_name": "Devario species_28",
+    "common_names": [
+      "Devario 28"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 1.82,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 316,
+    "name": "Devario 29",
+    "scientific_name": "Devario species_29",
+    "common_names": [
+      "Devario 29"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.19,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 317,
+    "name": "Devario 30",
+    "scientific_name": "Devario species_30",
+    "common_names": [
+      "Devario 30"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 1.35,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 318,
+    "name": "Stone Loach 1",
+    "scientific_name": "Nemacheilus species_1",
+    "common_names": [
+      "Stone Loach 1"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.1,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 319,
+    "name": "Stone Loach 2",
+    "scientific_name": "Nemacheilus species_2",
+    "common_names": [
+      "Stone Loach 2"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.09,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 320,
+    "name": "Stone Loach 3",
+    "scientific_name": "Nemacheilus species_3",
+    "common_names": [
+      "Stone Loach 3"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.1,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 321,
+    "name": "Stone Loach 4",
+    "scientific_name": "Nemacheilus species_4",
+    "common_names": [
+      "Stone Loach 4"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.09,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 322,
+    "name": "Stone Loach 5",
+    "scientific_name": "Nemacheilus species_5",
+    "common_names": [
+      "Stone Loach 5"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.01,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 323,
+    "name": "Stone Loach 6",
+    "scientific_name": "Nemacheilus species_6",
+    "common_names": [
+      "Stone Loach 6"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.08,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 324,
+    "name": "Stone Loach 7",
+    "scientific_name": "Nemacheilus species_7",
+    "common_names": [
+      "Stone Loach 7"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 325,
+    "name": "Stone Loach 8",
+    "scientific_name": "Nemacheilus species_8",
+    "common_names": [
+      "Stone Loach 8"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.03,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 326,
+    "name": "Stone Loach 9",
+    "scientific_name": "Nemacheilus species_9",
+    "common_names": [
+      "Stone Loach 9"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.05,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 327,
+    "name": "Stone Loach 10",
+    "scientific_name": "Nemacheilus species_10",
+    "common_names": [
+      "Stone Loach 10"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.1,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 328,
+    "name": "Stone Loach 11",
+    "scientific_name": "Nemacheilus species_11",
+    "common_names": [
+      "Stone Loach 11"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.13,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 329,
+    "name": "Stone Loach 12",
+    "scientific_name": "Nemacheilus species_12",
+    "common_names": [
+      "Stone Loach 12"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.05,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 330,
+    "name": "Stone Loach 13",
+    "scientific_name": "Nemacheilus species_13",
+    "common_names": [
+      "Stone Loach 13"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.06,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 331,
+    "name": "Stone Loach 14",
+    "scientific_name": "Nemacheilus species_14",
+    "common_names": [
+      "Stone Loach 14"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.04,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 332,
+    "name": "Stone Loach 15",
+    "scientific_name": "Nemacheilus species_15",
+    "common_names": [
+      "Stone Loach 15"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.06,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 333,
+    "name": "Stone Loach 16",
+    "scientific_name": "Nemacheilus species_16",
+    "common_names": [
+      "Stone Loach 16"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.05,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 334,
+    "name": "Stone Loach 17",
+    "scientific_name": "Nemacheilus species_17",
+    "common_names": [
+      "Stone Loach 17"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.13,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 335,
+    "name": "Stone Loach 18",
+    "scientific_name": "Nemacheilus species_18",
+    "common_names": [
+      "Stone Loach 18"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.07,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 336,
+    "name": "Stone Loach 19",
+    "scientific_name": "Nemacheilus species_19",
+    "common_names": [
+      "Stone Loach 19"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.08,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 337,
+    "name": "Stone Loach 20",
+    "scientific_name": "Nemacheilus species_20",
+    "common_names": [
+      "Stone Loach 20"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.11,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 338,
+    "name": "Stone Loach 21",
+    "scientific_name": "Nemacheilus species_21",
+    "common_names": [
+      "Stone Loach 21"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.07,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 339,
+    "name": "Stone Loach 22",
+    "scientific_name": "Nemacheilus species_22",
+    "common_names": [
+      "Stone Loach 22"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.09,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 340,
+    "name": "Stone Loach 23",
+    "scientific_name": "Nemacheilus species_23",
+    "common_names": [
+      "Stone Loach 23"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 341,
+    "name": "Stone Loach 24",
+    "scientific_name": "Nemacheilus species_24",
+    "common_names": [
+      "Stone Loach 24"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.08,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 342,
+    "name": "Stone Loach 25",
+    "scientific_name": "Nemacheilus species_25",
+    "common_names": [
+      "Stone Loach 25"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.02,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 343,
+    "name": "Stone Loach 26",
+    "scientific_name": "Nemacheilus species_26",
+    "common_names": [
+      "Stone Loach 26"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.04,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 344,
+    "name": "Stone Loach 27",
+    "scientific_name": "Nemacheilus species_27",
+    "common_names": [
+      "Stone Loach 27"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.02,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 345,
+    "name": "Stone Loach 28",
+    "scientific_name": "Nemacheilus species_28",
+    "common_names": [
+      "Stone Loach 28"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.12,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 346,
+    "name": "Stone Loach 29",
+    "scientific_name": "Nemacheilus species_29",
+    "common_names": [
+      "Stone Loach 29"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 347,
+    "name": "Stone Loach 30",
+    "scientific_name": "Nemacheilus species_30",
+    "common_names": [
+      "Stone Loach 30"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.14,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 348,
+    "name": "Stone Loach 31",
+    "scientific_name": "Nemacheilus species_31",
+    "common_names": [
+      "Stone Loach 31"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.09,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 349,
+    "name": "Stone Loach 32",
+    "scientific_name": "Nemacheilus species_32",
+    "common_names": [
+      "Stone Loach 32"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.03,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 350,
+    "name": "Stone Loach 33",
+    "scientific_name": "Nemacheilus species_33",
+    "common_names": [
+      "Stone Loach 33"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.04,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 351,
+    "name": "Stone Loach 34",
+    "scientific_name": "Nemacheilus species_34",
+    "common_names": [
+      "Stone Loach 34"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.02,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 352,
+    "name": "Stone Loach 35",
+    "scientific_name": "Nemacheilus species_35",
+    "common_names": [
+      "Stone Loach 35"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.08,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 353,
+    "name": "Stone Loach 36",
+    "scientific_name": "Nemacheilus species_36",
+    "common_names": [
+      "Stone Loach 36"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.07,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 354,
+    "name": "Stone Loach 37",
+    "scientific_name": "Nemacheilus species_37",
+    "common_names": [
+      "Stone Loach 37"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.03,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 355,
+    "name": "Stone Loach 38",
+    "scientific_name": "Nemacheilus species_38",
+    "common_names": [
+      "Stone Loach 38"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.05,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 356,
+    "name": "Stone Loach 39",
+    "scientific_name": "Nemacheilus species_39",
+    "common_names": [
+      "Stone Loach 39"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.05,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 357,
+    "name": "Stone Loach 40",
+    "scientific_name": "Nemacheilus species_40",
+    "common_names": [
+      "Stone Loach 40"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.09,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Nemacheilus species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 358,
+    "name": "Hill Stream Loach 1",
+    "scientific_name": "Schistura species_1",
+    "common_names": [
+      "Hill Stream Loach 1"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.09,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 359,
+    "name": "Hill Stream Loach 2",
+    "scientific_name": "Schistura species_2",
+    "common_names": [
+      "Hill Stream Loach 2"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.15,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 360,
+    "name": "Hill Stream Loach 3",
+    "scientific_name": "Schistura species_3",
+    "common_names": [
+      "Hill Stream Loach 3"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.12,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 361,
+    "name": "Hill Stream Loach 4",
+    "scientific_name": "Schistura species_4",
+    "common_names": [
+      "Hill Stream Loach 4"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.04,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 362,
+    "name": "Hill Stream Loach 5",
+    "scientific_name": "Schistura species_5",
+    "common_names": [
+      "Hill Stream Loach 5"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.02,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 363,
+    "name": "Hill Stream Loach 6",
+    "scientific_name": "Schistura species_6",
+    "common_names": [
+      "Hill Stream Loach 6"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.11,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 364,
+    "name": "Hill Stream Loach 7",
+    "scientific_name": "Schistura species_7",
+    "common_names": [
+      "Hill Stream Loach 7"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.06,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 365,
+    "name": "Hill Stream Loach 8",
+    "scientific_name": "Schistura species_8",
+    "common_names": [
+      "Hill Stream Loach 8"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.14,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 366,
+    "name": "Hill Stream Loach 9",
+    "scientific_name": "Schistura species_9",
+    "common_names": [
+      "Hill Stream Loach 9"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.02,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 367,
+    "name": "Hill Stream Loach 10",
+    "scientific_name": "Schistura species_10",
+    "common_names": [
+      "Hill Stream Loach 10"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.03,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 368,
+    "name": "Hill Stream Loach 11",
+    "scientific_name": "Schistura species_11",
+    "common_names": [
+      "Hill Stream Loach 11"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.02,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 369,
+    "name": "Hill Stream Loach 12",
+    "scientific_name": "Schistura species_12",
+    "common_names": [
+      "Hill Stream Loach 12"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.09,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 370,
+    "name": "Hill Stream Loach 13",
+    "scientific_name": "Schistura species_13",
+    "common_names": [
+      "Hill Stream Loach 13"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.03,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 371,
+    "name": "Hill Stream Loach 14",
+    "scientific_name": "Schistura species_14",
+    "common_names": [
+      "Hill Stream Loach 14"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.08,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 372,
+    "name": "Hill Stream Loach 15",
+    "scientific_name": "Schistura species_15",
+    "common_names": [
+      "Hill Stream Loach 15"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.06,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 373,
+    "name": "Hill Stream Loach 16",
+    "scientific_name": "Schistura species_16",
+    "common_names": [
+      "Hill Stream Loach 16"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.12,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 374,
+    "name": "Hill Stream Loach 17",
+    "scientific_name": "Schistura species_17",
+    "common_names": [
+      "Hill Stream Loach 17"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.11,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 375,
+    "name": "Hill Stream Loach 18",
+    "scientific_name": "Schistura species_18",
+    "common_names": [
+      "Hill Stream Loach 18"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.11,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 376,
+    "name": "Hill Stream Loach 19",
+    "scientific_name": "Schistura species_19",
+    "common_names": [
+      "Hill Stream Loach 19"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.09,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 377,
+    "name": "Hill Stream Loach 20",
+    "scientific_name": "Schistura species_20",
+    "common_names": [
+      "Hill Stream Loach 20"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.05,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 378,
+    "name": "Hill Stream Loach 21",
+    "scientific_name": "Schistura species_21",
+    "common_names": [
+      "Hill Stream Loach 21"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.11,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 379,
+    "name": "Hill Stream Loach 22",
+    "scientific_name": "Schistura species_22",
+    "common_names": [
+      "Hill Stream Loach 22"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.06,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 380,
+    "name": "Hill Stream Loach 23",
+    "scientific_name": "Schistura species_23",
+    "common_names": [
+      "Hill Stream Loach 23"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.06,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 381,
+    "name": "Hill Stream Loach 24",
+    "scientific_name": "Schistura species_24",
+    "common_names": [
+      "Hill Stream Loach 24"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.15,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 382,
+    "name": "Hill Stream Loach 25",
+    "scientific_name": "Schistura species_25",
+    "common_names": [
+      "Hill Stream Loach 25"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.11,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 383,
+    "name": "Hill Stream Loach 26",
+    "scientific_name": "Schistura species_26",
+    "common_names": [
+      "Hill Stream Loach 26"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.04,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 384,
+    "name": "Hill Stream Loach 27",
+    "scientific_name": "Schistura species_27",
+    "common_names": [
+      "Hill Stream Loach 27"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.07,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 385,
+    "name": "Hill Stream Loach 28",
+    "scientific_name": "Schistura species_28",
+    "common_names": [
+      "Hill Stream Loach 28"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.01,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 386,
+    "name": "Hill Stream Loach 29",
+    "scientific_name": "Schistura species_29",
+    "common_names": [
+      "Hill Stream Loach 29"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.13,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 387,
+    "name": "Hill Stream Loach 30",
+    "scientific_name": "Schistura species_30",
+    "common_names": [
+      "Hill Stream Loach 30"
+    ],
+    "family": "Nemacheilidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.13,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Schistura species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 388,
+    "name": "Loach 1",
+    "scientific_name": "Lepidocephalichthys species_1",
+    "common_names": [
+      "Loach 1"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.04,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 389,
+    "name": "Loach 2",
+    "scientific_name": "Lepidocephalichthys species_2",
+    "common_names": [
+      "Loach 2"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.04,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 390,
+    "name": "Loach 3",
+    "scientific_name": "Lepidocephalichthys species_3",
+    "common_names": [
+      "Loach 3"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 391,
+    "name": "Loach 4",
+    "scientific_name": "Lepidocephalichthys species_4",
+    "common_names": [
+      "Loach 4"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.11,
+    "max_age_years": 4,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 392,
+    "name": "Loach 5",
+    "scientific_name": "Lepidocephalichthys species_5",
+    "common_names": [
+      "Loach 5"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 393,
+    "name": "Loach 6",
+    "scientific_name": "Lepidocephalichthys species_6",
+    "common_names": [
+      "Loach 6"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 4,
+    "max_weight_kg": 0.08,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 394,
+    "name": "Loach 7",
+    "scientific_name": "Lepidocephalichthys species_7",
+    "common_names": [
+      "Loach 7"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.04,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 395,
+    "name": "Loach 8",
+    "scientific_name": "Lepidocephalichthys species_8",
+    "common_names": [
+      "Loach 8"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.14,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 396,
+    "name": "Loach 9",
+    "scientific_name": "Lepidocephalichthys species_9",
+    "common_names": [
+      "Loach 9"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.02,
+    "max_age_years": 2,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 397,
+    "name": "Loach 10",
+    "scientific_name": "Lepidocephalichthys species_10",
+    "common_names": [
+      "Loach 10"
+    ],
+    "family": "Cobitidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan streams",
+      "Western Ghats",
+      "Hill streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.11,
+    "max_age_years": 3,
+    "diet": "Omnivore - Algae, small invertebrates, detritus",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small bottom-dwelling loach found in fast-flowing streams. Lepidocephalichthys species endemic to Indian hill streams.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 398,
+    "name": "Goby 1",
+    "scientific_name": "Sicyopterus species_1",
+    "common_names": [
+      "Goby 1",
+      "Goby"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal estuaries",
+      "Backwaters"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.22,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small invertebrates, insect larvae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ecosystem indicator",
+    "description": "Small goby species of genus Sicyopterus. Important indicator of water quality in coastal and freshwater systems.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 399,
+    "name": "Goby 2",
+    "scientific_name": "Sicyopterus species_2",
+    "common_names": [
+      "Goby 2",
+      "Goby"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Coastal estuaries",
+      "Backwaters"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.05,
+    "max_age_years": 2,
+    "diet": "Carnivore - Small invertebrates, insect larvae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ecosystem indicator",
+    "description": "Small goby species of genus Sicyopterus. Important indicator of water quality in coastal and freshwater systems.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 400,
+    "name": "Goby 3",
+    "scientific_name": "Sicyopterus species_3",
+    "common_names": [
+      "Goby 3",
+      "Goby"
+    ],
+    "family": "Gobiidae",
+    "habitat": "Brackish",
+    "native_regions": [
+      "Rivers",
+      "Streams"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.31,
+    "max_age_years": 4,
+    "diet": "Carnivore - Small invertebrates, insect larvae",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Ecosystem indicator",
+    "description": "Small goby species of genus Sicyopterus. Important indicator of water quality in coastal and freshwater systems.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  }
+]

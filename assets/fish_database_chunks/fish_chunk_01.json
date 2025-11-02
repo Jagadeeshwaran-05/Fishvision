@@ -1,0 +1,2175 @@
+[
+  {
+    "id": 101,
+    "name": "Walking Catfish 2",
+    "scientific_name": "Clarias species_2",
+    "common_names": [
+      "Walking Catfish 2",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 10.1,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 102,
+    "name": "Walking Catfish 3",
+    "scientific_name": "Clarias species_3",
+    "common_names": [
+      "Walking Catfish 3",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 148,
+    "max_weight_kg": 3.3,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 103,
+    "name": "Walking Catfish 4",
+    "scientific_name": "Clarias species_4",
+    "common_names": [
+      "Walking Catfish 4",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 119,
+    "max_weight_kg": 7.3,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 104,
+    "name": "Walking Catfish 5",
+    "scientific_name": "Clarias species_5",
+    "common_names": [
+      "Walking Catfish 5",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 16.1,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 105,
+    "name": "Walking Catfish 6",
+    "scientific_name": "Clarias species_6",
+    "common_names": [
+      "Walking Catfish 6",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 4.6,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 106,
+    "name": "Walking Catfish 7",
+    "scientific_name": "Clarias species_7",
+    "common_names": [
+      "Walking Catfish 7",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 45,
+    "max_weight_kg": 17.4,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 107,
+    "name": "Walking Catfish 8",
+    "scientific_name": "Clarias species_8",
+    "common_names": [
+      "Walking Catfish 8",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 13.4,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 108,
+    "name": "Barb 1",
+    "scientific_name": "Puntius species_1",
+    "common_names": [
+      "Barb 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 0.85,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 109,
+    "name": "Barb 2",
+    "scientific_name": "Puntius species_2",
+    "common_names": [
+      "Barb 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.24,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 110,
+    "name": "Barb 3",
+    "scientific_name": "Puntius species_3",
+    "common_names": [
+      "Barb 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 1.22,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 111,
+    "name": "Barb 4",
+    "scientific_name": "Puntius species_4",
+    "common_names": [
+      "Barb 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.52,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 112,
+    "name": "Barb 5",
+    "scientific_name": "Puntius species_5",
+    "common_names": [
+      "Barb 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 2.4,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 113,
+    "name": "Barb 6",
+    "scientific_name": "Puntius species_6",
+    "common_names": [
+      "Barb 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 0.51,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 114,
+    "name": "Barb 7",
+    "scientific_name": "Puntius species_7",
+    "common_names": [
+      "Barb 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 0.79,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 115,
+    "name": "Barb 8",
+    "scientific_name": "Puntius species_8",
+    "common_names": [
+      "Barb 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 0.07,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 116,
+    "name": "Barb 9",
+    "scientific_name": "Puntius species_9",
+    "common_names": [
+      "Barb 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.02,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 117,
+    "name": "Barb 10",
+    "scientific_name": "Puntius species_10",
+    "common_names": [
+      "Barb 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 0.97,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 118,
+    "name": "Barb 11",
+    "scientific_name": "Puntius species_11",
+    "common_names": [
+      "Barb 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.66,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 119,
+    "name": "Barb 12",
+    "scientific_name": "Puntius species_12",
+    "common_names": [
+      "Barb 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 0.24,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 120,
+    "name": "Barb 13",
+    "scientific_name": "Puntius species_13",
+    "common_names": [
+      "Barb 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 1.55,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 121,
+    "name": "Barb 14",
+    "scientific_name": "Puntius species_14",
+    "common_names": [
+      "Barb 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 2.45,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 122,
+    "name": "Barb 15",
+    "scientific_name": "Puntius species_15",
+    "common_names": [
+      "Barb 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 2.07,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 123,
+    "name": "Barb 16",
+    "scientific_name": "Puntius species_16",
+    "common_names": [
+      "Barb 16"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 2.35,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 124,
+    "name": "Barb 17",
+    "scientific_name": "Puntius species_17",
+    "common_names": [
+      "Barb 17"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 1.48,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 125,
+    "name": "Barb 18",
+    "scientific_name": "Puntius species_18",
+    "common_names": [
+      "Barb 18"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 1.73,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 126,
+    "name": "Barb 19",
+    "scientific_name": "Puntius species_19",
+    "common_names": [
+      "Barb 19"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 2.11,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 127,
+    "name": "Barb 20",
+    "scientific_name": "Puntius species_20",
+    "common_names": [
+      "Barb 20"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 1.87,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 128,
+    "name": "Barb 21",
+    "scientific_name": "Puntius species_21",
+    "common_names": [
+      "Barb 21"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 2.43,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 129,
+    "name": "Barb 22",
+    "scientific_name": "Puntius species_22",
+    "common_names": [
+      "Barb 22"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 1.4,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 130,
+    "name": "Barb 23",
+    "scientific_name": "Puntius species_23",
+    "common_names": [
+      "Barb 23"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.07,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 131,
+    "name": "Barb 24",
+    "scientific_name": "Puntius species_24",
+    "common_names": [
+      "Barb 24"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 2.12,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 132,
+    "name": "Barb 25",
+    "scientific_name": "Puntius species_25",
+    "common_names": [
+      "Barb 25"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 1.37,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 133,
+    "name": "Barb 26",
+    "scientific_name": "Puntius species_26",
+    "common_names": [
+      "Barb 26"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 1.45,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 134,
+    "name": "Barb 27",
+    "scientific_name": "Puntius species_27",
+    "common_names": [
+      "Barb 27"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 2.05,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 135,
+    "name": "Barb 28",
+    "scientific_name": "Puntius species_28",
+    "common_names": [
+      "Barb 28"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 0.2,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 136,
+    "name": "Barb 29",
+    "scientific_name": "Puntius species_29",
+    "common_names": [
+      "Barb 29"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.22,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 137,
+    "name": "Barb 30",
+    "scientific_name": "Puntius species_30",
+    "common_names": [
+      "Barb 30"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.57,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 138,
+    "name": "Barb 31",
+    "scientific_name": "Puntius species_31",
+    "common_names": [
+      "Barb 31"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 1.14,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 139,
+    "name": "Barb 32",
+    "scientific_name": "Puntius species_32",
+    "common_names": [
+      "Barb 32"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 0.17,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 140,
+    "name": "Barb 33",
+    "scientific_name": "Puntius species_33",
+    "common_names": [
+      "Barb 33"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.88,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 141,
+    "name": "Barb 34",
+    "scientific_name": "Puntius species_34",
+    "common_names": [
+      "Barb 34"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.96,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 142,
+    "name": "Barb 35",
+    "scientific_name": "Puntius species_35",
+    "common_names": [
+      "Barb 35"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.57,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 143,
+    "name": "Barb 36",
+    "scientific_name": "Puntius species_36",
+    "common_names": [
+      "Barb 36"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 2.08,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 144,
+    "name": "Barb 37",
+    "scientific_name": "Puntius species_37",
+    "common_names": [
+      "Barb 37"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.73,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 145,
+    "name": "Barb 38",
+    "scientific_name": "Puntius species_38",
+    "common_names": [
+      "Barb 38"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 1.69,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 146,
+    "name": "Barb 39",
+    "scientific_name": "Puntius species_39",
+    "common_names": [
+      "Barb 39"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 1.5,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 147,
+    "name": "Barb 40",
+    "scientific_name": "Puntius species_40",
+    "common_names": [
+      "Barb 40"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.73,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 148,
+    "name": "Barb 41",
+    "scientific_name": "Puntius species_41",
+    "common_names": [
+      "Barb 41"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 1.52,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 149,
+    "name": "Barb 42",
+    "scientific_name": "Puntius species_42",
+    "common_names": [
+      "Barb 42"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.14,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 150,
+    "name": "Barb 43",
+    "scientific_name": "Puntius species_43",
+    "common_names": [
+      "Barb 43"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.11,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 151,
+    "name": "Barb 44",
+    "scientific_name": "Puntius species_44",
+    "common_names": [
+      "Barb 44"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 0.47,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 152,
+    "name": "Barb 45",
+    "scientific_name": "Puntius species_45",
+    "common_names": [
+      "Barb 45"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 0.17,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 153,
+    "name": "Barb 46",
+    "scientific_name": "Puntius species_46",
+    "common_names": [
+      "Barb 46"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.17,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 154,
+    "name": "Barb 47",
+    "scientific_name": "Puntius species_47",
+    "common_names": [
+      "Barb 47"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 2.09,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 155,
+    "name": "Barb 48",
+    "scientific_name": "Puntius species_48",
+    "common_names": [
+      "Barb 48"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 0.89,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 156,
+    "name": "Barb 49",
+    "scientific_name": "Puntius species_49",
+    "common_names": [
+      "Barb 49"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 0.79,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 157,
+    "name": "Barb 50",
+    "scientific_name": "Puntius species_50",
+    "common_names": [
+      "Barb 50"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 1.14,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 158,
+    "name": "Barb 51",
+    "scientific_name": "Puntius species_51",
+    "common_names": [
+      "Barb 51"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 0.47,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 159,
+    "name": "Barb 52",
+    "scientific_name": "Puntius species_52",
+    "common_names": [
+      "Barb 52"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.32,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 160,
+    "name": "Barb 53",
+    "scientific_name": "Puntius species_53",
+    "common_names": [
+      "Barb 53"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 2.2,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 161,
+    "name": "Barb 54",
+    "scientific_name": "Puntius species_54",
+    "common_names": [
+      "Barb 54"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 2.44,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 162,
+    "name": "Barb 55",
+    "scientific_name": "Puntius species_55",
+    "common_names": [
+      "Barb 55"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.5,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 163,
+    "name": "Barb 56",
+    "scientific_name": "Puntius species_56",
+    "common_names": [
+      "Barb 56"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 2.03,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 164,
+    "name": "Barb 57",
+    "scientific_name": "Puntius species_57",
+    "common_names": [
+      "Barb 57"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 1.85,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 165,
+    "name": "Barb 58",
+    "scientific_name": "Puntius species_58",
+    "common_names": [
+      "Barb 58"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 2.29,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 166,
+    "name": "Barb 59",
+    "scientific_name": "Puntius species_59",
+    "common_names": [
+      "Barb 59"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 1.2,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 167,
+    "name": "Barb 60",
+    "scientific_name": "Puntius species_60",
+    "common_names": [
+      "Barb 60"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 2.49,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 168,
+    "name": "Barb 61",
+    "scientific_name": "Puntius species_61",
+    "common_names": [
+      "Barb 61"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 2.08,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 169,
+    "name": "Barb 62",
+    "scientific_name": "Puntius species_62",
+    "common_names": [
+      "Barb 62"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 2.5,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 170,
+    "name": "Barb 63",
+    "scientific_name": "Puntius species_63",
+    "common_names": [
+      "Barb 63"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 1.89,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 171,
+    "name": "Barb 64",
+    "scientific_name": "Puntius species_64",
+    "common_names": [
+      "Barb 64"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 1.03,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 172,
+    "name": "Barb 65",
+    "scientific_name": "Puntius species_65",
+    "common_names": [
+      "Barb 65"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 1.28,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 173,
+    "name": "Barb 66",
+    "scientific_name": "Puntius species_66",
+    "common_names": [
+      "Barb 66"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 1.26,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 174,
+    "name": "Barb 67",
+    "scientific_name": "Puntius species_67",
+    "common_names": [
+      "Barb 67"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.93,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 175,
+    "name": "Barb 68",
+    "scientific_name": "Puntius species_68",
+    "common_names": [
+      "Barb 68"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.3,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 176,
+    "name": "Barb 69",
+    "scientific_name": "Puntius species_69",
+    "common_names": [
+      "Barb 69"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.95,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 177,
+    "name": "Barb 70",
+    "scientific_name": "Puntius species_70",
+    "common_names": [
+      "Barb 70"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 2.11,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 178,
+    "name": "Barb 71",
+    "scientific_name": "Puntius species_71",
+    "common_names": [
+      "Barb 71"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 0.6,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 179,
+    "name": "Barb 72",
+    "scientific_name": "Puntius species_72",
+    "common_names": [
+      "Barb 72"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 2.25,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 180,
+    "name": "Barb 73",
+    "scientific_name": "Puntius species_73",
+    "common_names": [
+      "Barb 73"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 1.07,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 181,
+    "name": "Barb 74",
+    "scientific_name": "Puntius species_74",
+    "common_names": [
+      "Barb 74"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 1.69,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 182,
+    "name": "Barb 75",
+    "scientific_name": "Puntius species_75",
+    "common_names": [
+      "Barb 75"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 1.87,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 183,
+    "name": "Barb 76",
+    "scientific_name": "Puntius species_76",
+    "common_names": [
+      "Barb 76"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 29,
+    "max_weight_kg": 0.68,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 184,
+    "name": "Barb 77",
+    "scientific_name": "Puntius species_77",
+    "common_names": [
+      "Barb 77"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.52,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 185,
+    "name": "Barb 78",
+    "scientific_name": "Puntius species_78",
+    "common_names": [
+      "Barb 78"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.74,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 186,
+    "name": "Barb 79",
+    "scientific_name": "Puntius species_79",
+    "common_names": [
+      "Barb 79"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 0.09,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 187,
+    "name": "Barb 80",
+    "scientific_name": "Puntius species_80",
+    "common_names": [
+      "Barb 80"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.99,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Puntius genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 188,
+    "name": "Systomus Barb 1",
+    "scientific_name": "Systomus species_1",
+    "common_names": [
+      "Systomus Barb 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 1.58,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 189,
+    "name": "Systomus Barb 2",
+    "scientific_name": "Systomus species_2",
+    "common_names": [
+      "Systomus Barb 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.53,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 190,
+    "name": "Systomus Barb 3",
+    "scientific_name": "Systomus species_3",
+    "common_names": [
+      "Systomus Barb 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 0.84,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 191,
+    "name": "Systomus Barb 4",
+    "scientific_name": "Systomus species_4",
+    "common_names": [
+      "Systomus Barb 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 1.8,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 192,
+    "name": "Systomus Barb 5",
+    "scientific_name": "Systomus species_5",
+    "common_names": [
+      "Systomus Barb 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.19,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 193,
+    "name": "Systomus Barb 6",
+    "scientific_name": "Systomus species_6",
+    "common_names": [
+      "Systomus Barb 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 1.94,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 194,
+    "name": "Systomus Barb 7",
+    "scientific_name": "Systomus species_7",
+    "common_names": [
+      "Systomus Barb 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 1.18,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 195,
+    "name": "Systomus Barb 8",
+    "scientific_name": "Systomus species_8",
+    "common_names": [
+      "Systomus Barb 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 0.36,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 196,
+    "name": "Systomus Barb 9",
+    "scientific_name": "Systomus species_9",
+    "common_names": [
+      "Systomus Barb 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 2.23,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 197,
+    "name": "Systomus Barb 10",
+    "scientific_name": "Systomus species_10",
+    "common_names": [
+      "Systomus Barb 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 1.76,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 198,
+    "name": "Systomus Barb 11",
+    "scientific_name": "Systomus species_11",
+    "common_names": [
+      "Systomus Barb 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 1.5,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 199,
+    "name": "Systomus Barb 12",
+    "scientific_name": "Systomus species_12",
+    "common_names": [
+      "Systomus Barb 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 1.94,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 200,
+    "name": "Systomus Barb 13",
+    "scientific_name": "Systomus species_13",
+    "common_names": [
+      "Systomus Barb 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 2.23,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  }
+]
