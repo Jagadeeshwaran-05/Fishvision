@@ -1,0 +1,18 @@
+{
+  "total_species": 1050,
+  "families": 70,
+  "habitats": {
+    "Freshwater": 601,
+    "Marine": 216,
+    "Brackish": 233
+  },
+  "regions": 63,
+  "conservation_statuses": {
+    "Least Concern": 602,
+    "Data Deficient": 219,
+    "Near Threatened": 219,
+    "Not Evaluated": 8,
+    "Endangered": 1,
+    "Vulnerable": 1
+  }
+}

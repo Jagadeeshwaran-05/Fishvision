@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1001,
+    "name": "Flounder 5",
+    "scientific_name": "Pseudorhombus species_5",
+    "common_names": [
+      "Flounder 5",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 48,
+    "max_weight_kg": 2.9,
+    "max_age_years": 8,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1002,
+    "name": "Flounder 6",
+    "scientific_name": "Pseudorhombus species_6",
+    "common_names": [
+      "Flounder 6",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 2.6,
+    "max_age_years": 5,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1003,
+    "name": "Flounder 7",
+    "scientific_name": "Pseudorhombus species_7",
+    "common_names": [
+      "Flounder 7",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 52,
+    "max_weight_kg": 3.5,
+    "max_age_years": 10,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1004,
+    "name": "Flounder 8",
+    "scientific_name": "Pseudorhombus species_8",
+    "common_names": [
+      "Flounder 8",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 58,
+    "max_weight_kg": 1.6,
+    "max_age_years": 9,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1005,
+    "name": "Flounder 9",
+    "scientific_name": "Pseudorhombus species_9",
+    "common_names": [
+      "Flounder 9",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 49,
+    "max_weight_kg": 3.6,
+    "max_age_years": 7,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1006,
+    "name": "Flounder 10",
+    "scientific_name": "Pseudorhombus species_10",
+    "common_names": [
+      "Flounder 10",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 46,
+    "max_weight_kg": 1.4,
+    "max_age_years": 7,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1007,
+    "name": "Flounder 11",
+    "scientific_name": "Pseudorhombus species_11",
+    "common_names": [
+      "Flounder 11",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 3.3,
+    "max_age_years": 9,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1008,
+    "name": "Flounder 12",
+    "scientific_name": "Pseudorhombus species_12",
+    "common_names": [
+      "Flounder 12",
+      "Flatfish"
+    ],
+    "family": "Paralichthyidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 3.2,
+    "max_age_years": 8,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1009,
+    "name": "Turbot 1",
+    "scientific_name": "Psettodes species_1",
+    "common_names": [
+      "Turbot 1",
+      "Flatfish"
+    ],
+    "family": "Psettodidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 57,
+    "max_weight_kg": 0.7,
+    "max_age_years": 7,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1010,
+    "name": "Turbot 2",
+    "scientific_name": "Psettodes species_2",
+    "common_names": [
+      "Turbot 2",
+      "Flatfish"
+    ],
+    "family": "Psettodidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 55,
+    "max_weight_kg": 1.1,
+    "max_age_years": 10,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 1011,
+    "name": "Turbot 3",
+    "scientific_name": "Psettodes species_3",
+    "common_names": [
+      "Turbot 3",
+      "Flatfish"
+    ],
+    "family": "Psettodidae",
+    "habitat": "Marine",
+    "native_regions": [
+      "Continental shelf",
+      "Coastal waters",
+      "Bay of Bengal"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 3.2,
+    "max_age_years": 7,
+    "diet": "Carnivore - Bottom-dwelling invertebrates, small fish",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Demersal fishery",
+    "description": "Bottom-dwelling flatfish with both eyes on one side. Important for commercial trawl fisheries.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  }
+]

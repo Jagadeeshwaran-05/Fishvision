@@ -1,0 +1,279 @@
+{
+  "total_species": 2492,
+  "total_chunks": 25,
+  "chunk_size": 100,
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "file": "fish_chunk_00.json",
+      "species_count": 100,
+      "start_id": 1,
+      "end_id": 100
+    },
+    {
+      "chunk_id": 1,
+      "file": "fish_chunk_01.json",
+      "species_count": 100,
+      "start_id": 101,
+      "end_id": 200
+    },
+    {
+      "chunk_id": 2,
+      "file": "fish_chunk_02.json",
+      "species_count": 100,
+      "start_id": 201,
+      "end_id": 300
+    },
+    {
+      "chunk_id": 3,
+      "file": "fish_chunk_03.json",
+      "species_count": 100,
+      "start_id": 301,
+      "end_id": 400
+    },
+    {
+      "chunk_id": 4,
+      "file": "fish_chunk_04.json",
+      "species_count": 100,
+      "start_id": 401,
+      "end_id": 500
+    },
+    {
+      "chunk_id": 5,
+      "file": "fish_chunk_05.json",
+      "species_count": 100,
+      "start_id": 501,
+      "end_id": 600
+    },
+    {
+      "chunk_id": 6,
+      "file": "fish_chunk_06.json",
+      "species_count": 100,
+      "start_id": 601,
+      "end_id": 700
+    },
+    {
+      "chunk_id": 7,
+      "file": "fish_chunk_07.json",
+      "species_count": 100,
+      "start_id": 701,
+      "end_id": 800
+    },
+    {
+      "chunk_id": 8,
+      "file": "fish_chunk_08.json",
+      "species_count": 100,
+      "start_id": 801,
+      "end_id": 900
+    },
+    {
+      "chunk_id": 9,
+      "file": "fish_chunk_09.json",
+      "species_count": 100,
+      "start_id": 901,
+      "end_id": 1000
+    },
+    {
+      "chunk_id": 10,
+      "file": "fish_chunk_10.json",
+      "species_count": 100,
+      "start_id": 1001,
+      "end_id": 1100
+    },
+    {
+      "chunk_id": 11,
+      "file": "fish_chunk_11.json",
+      "species_count": 100,
+      "start_id": 1101,
+      "end_id": 1200
+    },
+    {
+      "chunk_id": 12,
+      "file": "fish_chunk_12.json",
+      "species_count": 100,
+      "start_id": 1201,
+      "end_id": 1300
+    },
+    {
+      "chunk_id": 13,
+      "file": "fish_chunk_13.json",
+      "species_count": 100,
+      "start_id": 1301,
+      "end_id": 1400
+    },
+    {
+      "chunk_id": 14,
+      "file": "fish_chunk_14.json",
+      "species_count": 100,
+      "start_id": 1401,
+      "end_id": 1500
+    },
+    {
+      "chunk_id": 15,
+      "file": "fish_chunk_15.json",
+      "species_count": 100,
+      "start_id": 1501,
+      "end_id": 1600
+    },
+    {
+      "chunk_id": 16,
+      "file": "fish_chunk_16.json",
+      "species_count": 100,
+      "start_id": 1601,
+      "end_id": 1700
+    },
+    {
+      "chunk_id": 17,
+      "file": "fish_chunk_17.json",
+      "species_count": 100,
+      "start_id": 1701,
+      "end_id": 1800
+    },
+    {
+      "chunk_id": 18,
+      "file": "fish_chunk_18.json",
+      "species_count": 100,
+      "start_id": 1801,
+      "end_id": 1900
+    },
+    {
+      "chunk_id": 19,
+      "file": "fish_chunk_19.json",
+      "species_count": 100,
+      "start_id": 1901,
+      "end_id": 2000
+    },
+    {
+      "chunk_id": 20,
+      "file": "fish_chunk_20.json",
+      "species_count": 100,
+      "start_id": 2001,
+      "end_id": 2100
+    },
+    {
+      "chunk_id": 21,
+      "file": "fish_chunk_21.json",
+      "species_count": 100,
+      "start_id": 2101,
+      "end_id": 2200
+    },
+    {
+      "chunk_id": 22,
+      "file": "fish_chunk_22.json",
+      "species_count": 100,
+      "start_id": 2201,
+      "end_id": 2300
+    },
+    {
+      "chunk_id": 23,
+      "file": "fish_chunk_23.json",
+      "species_count": 100,
+      "start_id": 2301,
+      "end_id": 2400
+    },
+    {
+      "chunk_id": 24,
+      "file": "fish_chunk_24.json",
+      "species_count": 92,
+      "start_id": 2401,
+      "end_id": 2492
+    }
+  ],
+  "statistics": {
+    "total_species": 2492,
+    "families": {
+      "Cyprinidae": 270,
+      "Bagridae": 85,
+      "Gobiidae": 140,
+      "Channidae": 40,
+      "Siluridae": 45,
+      "Schilbeidae": 35,
+      "Cichlidae": 30,
+      "Ambassidae": 25,
+      "Nandidae": 15,
+      "Mastacembelidae": 30,
+      "Notopteridae": 8,
+      "Anabantidae": 5,
+      "Osphronemidae": 25,
+      "Clariidae": 12,
+      "Heteropneustidae": 3,
+      "Sisoridae": 90,
+      "Cobitidae": 55,
+      "Balitoridae": 85,
+      "Mugilidae": 30,
+      "Engraulidae": 45,
+      "Clupeidae": 55,
+      "Sciaenidae": 60,
+      "Carangidae": 80,
+      "Lutjanidae": 40,
+      "Serranidae": 55,
+      "Leiognathidae": 25,
+      "Haemulidae": 20,
+      "Nemipteridae": 35,
+      "Gerreidae": 15,
+      "Mullidae": 25,
+      "Polynemidae": 15,
+      "Sphyraenidae": 12,
+      "Scombridae": 35,
+      "Ariidae": 40,
+      "Cynoglossidae": 35,
+      "Soleidae": 20,
+      "Tetraodontidae": 30,
+      "Syngnathidae": 50,
+      "Anguillidae": 8,
+      "Muraenidae": 30,
+      "Ophichthidae": 25,
+      "Belonidae": 18,
+      "Hemiramphidae": 15,
+      "Exocoetidae": 12,
+      "Synodontidae": 25,
+      "Plotosidae": 8,
+      "Labridae": 60,
+      "Scaridae": 25,
+      "Blenniidae": 45,
+      "Tripterygiidae": 15,
+      "Apogonidae": 60,
+      "Priacanthidae": 10,
+      "Acanthuridae": 30,
+      "Siganidae": 15,
+      "Pomacanthidae": 25,
+      "Chaetodontidae": 40,
+      "Pomacentridae": 80,
+      "Lethrinidae": 25,
+      "Sparidae": 15,
+      "Platycephalidae": 30,
+      "Scorpaenidae": 50,
+      "Trichiuridae": 20,
+      "Stromateidae": 8,
+      "Monodactylidae": 3,
+      "Toxotidae": 2,
+      "Ephippidae": 8,
+      "Drepanidae": 5,
+      "Rachycentridae": 1,
+      "Coryphaenidae": 2,
+      "Balistidae": 15,
+      "Monacanthidae": 20,
+      "Ostraciidae": 12,
+      "Diodontidae": 10
+    },
+    "habitats": {
+      "Freshwater": 1028,
+      "Brackish": 397,
+      "Marine": 1067
+    },
+    "conservation_statuses": {
+      "Least Concern": 1661,
+      "Data Deficient": 500,
+      "Near Threatened": 171,
+      "Vulnerable": 85,
+      "Endangered": 51,
+      "Critically Endangered": 24
+    },
+    "commercial_importance": {
+      "Very Low": 373,
+      "Low": 900,
+      "Medium": 865,
+      "High": 354
+    }
+  }
+}

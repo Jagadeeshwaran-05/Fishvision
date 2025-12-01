@@ -1,0 +1,2176 @@
+[
+  {
+    "id": 201,
+    "name": "Systomus Barb 14",
+    "scientific_name": "Systomus species_14",
+    "common_names": [
+      "Systomus Barb 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 0.23,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 202,
+    "name": "Systomus Barb 15",
+    "scientific_name": "Systomus species_15",
+    "common_names": [
+      "Systomus Barb 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 1.91,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 203,
+    "name": "Systomus Barb 16",
+    "scientific_name": "Systomus species_16",
+    "common_names": [
+      "Systomus Barb 16"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.29,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 204,
+    "name": "Systomus Barb 17",
+    "scientific_name": "Systomus species_17",
+    "common_names": [
+      "Systomus Barb 17"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 1.65,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 205,
+    "name": "Systomus Barb 18",
+    "scientific_name": "Systomus species_18",
+    "common_names": [
+      "Systomus Barb 18"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 1.17,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 206,
+    "name": "Systomus Barb 19",
+    "scientific_name": "Systomus species_19",
+    "common_names": [
+      "Systomus Barb 19"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 2.3,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 207,
+    "name": "Systomus Barb 20",
+    "scientific_name": "Systomus species_20",
+    "common_names": [
+      "Systomus Barb 20"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 1.08,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 208,
+    "name": "Systomus Barb 21",
+    "scientific_name": "Systomus species_21",
+    "common_names": [
+      "Systomus Barb 21"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.51,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 209,
+    "name": "Systomus Barb 22",
+    "scientific_name": "Systomus species_22",
+    "common_names": [
+      "Systomus Barb 22"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.98,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 210,
+    "name": "Systomus Barb 23",
+    "scientific_name": "Systomus species_23",
+    "common_names": [
+      "Systomus Barb 23"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.15,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 211,
+    "name": "Systomus Barb 24",
+    "scientific_name": "Systomus species_24",
+    "common_names": [
+      "Systomus Barb 24"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 1.56,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 212,
+    "name": "Systomus Barb 25",
+    "scientific_name": "Systomus species_25",
+    "common_names": [
+      "Systomus Barb 25"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 0.68,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Systomus genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 213,
+    "name": "Dawkinsia Barb 1",
+    "scientific_name": "Dawkinsia species_1",
+    "common_names": [
+      "Dawkinsia Barb 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 2.03,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 214,
+    "name": "Dawkinsia Barb 2",
+    "scientific_name": "Dawkinsia species_2",
+    "common_names": [
+      "Dawkinsia Barb 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 0.43,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 215,
+    "name": "Dawkinsia Barb 3",
+    "scientific_name": "Dawkinsia species_3",
+    "common_names": [
+      "Dawkinsia Barb 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 0.98,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 216,
+    "name": "Dawkinsia Barb 4",
+    "scientific_name": "Dawkinsia species_4",
+    "common_names": [
+      "Dawkinsia Barb 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 0.56,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 217,
+    "name": "Dawkinsia Barb 5",
+    "scientific_name": "Dawkinsia species_5",
+    "common_names": [
+      "Dawkinsia Barb 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 1.19,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 218,
+    "name": "Dawkinsia Barb 6",
+    "scientific_name": "Dawkinsia species_6",
+    "common_names": [
+      "Dawkinsia Barb 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 5,
+    "max_weight_kg": 0.33,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 219,
+    "name": "Dawkinsia Barb 7",
+    "scientific_name": "Dawkinsia species_7",
+    "common_names": [
+      "Dawkinsia Barb 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.99,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 220,
+    "name": "Dawkinsia Barb 8",
+    "scientific_name": "Dawkinsia species_8",
+    "common_names": [
+      "Dawkinsia Barb 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 1.81,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 221,
+    "name": "Dawkinsia Barb 9",
+    "scientific_name": "Dawkinsia species_9",
+    "common_names": [
+      "Dawkinsia Barb 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 1.78,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 222,
+    "name": "Dawkinsia Barb 10",
+    "scientific_name": "Dawkinsia species_10",
+    "common_names": [
+      "Dawkinsia Barb 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 0.98,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 223,
+    "name": "Dawkinsia Barb 11",
+    "scientific_name": "Dawkinsia species_11",
+    "common_names": [
+      "Dawkinsia Barb 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 2.35,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 224,
+    "name": "Dawkinsia Barb 12",
+    "scientific_name": "Dawkinsia species_12",
+    "common_names": [
+      "Dawkinsia Barb 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 0.24,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 225,
+    "name": "Dawkinsia Barb 13",
+    "scientific_name": "Dawkinsia species_13",
+    "common_names": [
+      "Dawkinsia Barb 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 0.17,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 226,
+    "name": "Dawkinsia Barb 14",
+    "scientific_name": "Dawkinsia species_14",
+    "common_names": [
+      "Dawkinsia Barb 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 1.71,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 227,
+    "name": "Dawkinsia Barb 15",
+    "scientific_name": "Dawkinsia species_15",
+    "common_names": [
+      "Dawkinsia Barb 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 1.01,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 228,
+    "name": "Dawkinsia Barb 16",
+    "scientific_name": "Dawkinsia species_16",
+    "common_names": [
+      "Dawkinsia Barb 16"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 0.54,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 229,
+    "name": "Dawkinsia Barb 17",
+    "scientific_name": "Dawkinsia species_17",
+    "common_names": [
+      "Dawkinsia Barb 17"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 1.42,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 230,
+    "name": "Dawkinsia Barb 18",
+    "scientific_name": "Dawkinsia species_18",
+    "common_names": [
+      "Dawkinsia Barb 18"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.46,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 231,
+    "name": "Dawkinsia Barb 19",
+    "scientific_name": "Dawkinsia species_19",
+    "common_names": [
+      "Dawkinsia Barb 19"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 1.25,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 232,
+    "name": "Dawkinsia Barb 20",
+    "scientific_name": "Dawkinsia species_20",
+    "common_names": [
+      "Dawkinsia Barb 20"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 2.15,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Dawkinsia genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 233,
+    "name": "Haludaria Barb 1",
+    "scientific_name": "Haludaria species_1",
+    "common_names": [
+      "Haludaria Barb 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 0.78,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 234,
+    "name": "Haludaria Barb 2",
+    "scientific_name": "Haludaria species_2",
+    "common_names": [
+      "Haludaria Barb 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 1.3,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 235,
+    "name": "Haludaria Barb 3",
+    "scientific_name": "Haludaria species_3",
+    "common_names": [
+      "Haludaria Barb 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 29,
+    "max_weight_kg": 1.72,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 236,
+    "name": "Haludaria Barb 4",
+    "scientific_name": "Haludaria species_4",
+    "common_names": [
+      "Haludaria Barb 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.99,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 237,
+    "name": "Haludaria Barb 5",
+    "scientific_name": "Haludaria species_5",
+    "common_names": [
+      "Haludaria Barb 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 2.33,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 238,
+    "name": "Haludaria Barb 6",
+    "scientific_name": "Haludaria species_6",
+    "common_names": [
+      "Haludaria Barb 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 13,
+    "max_weight_kg": 1.29,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 239,
+    "name": "Haludaria Barb 7",
+    "scientific_name": "Haludaria species_7",
+    "common_names": [
+      "Haludaria Barb 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 0.57,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 240,
+    "name": "Haludaria Barb 8",
+    "scientific_name": "Haludaria species_8",
+    "common_names": [
+      "Haludaria Barb 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 23,
+    "max_weight_kg": 2.0,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 241,
+    "name": "Haludaria Barb 9",
+    "scientific_name": "Haludaria species_9",
+    "common_names": [
+      "Haludaria Barb 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 1.87,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 242,
+    "name": "Haludaria Barb 10",
+    "scientific_name": "Haludaria species_10",
+    "common_names": [
+      "Haludaria Barb 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.32,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 243,
+    "name": "Haludaria Barb 11",
+    "scientific_name": "Haludaria species_11",
+    "common_names": [
+      "Haludaria Barb 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 2.2,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 244,
+    "name": "Haludaria Barb 12",
+    "scientific_name": "Haludaria species_12",
+    "common_names": [
+      "Haludaria Barb 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 0.53,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 245,
+    "name": "Haludaria Barb 13",
+    "scientific_name": "Haludaria species_13",
+    "common_names": [
+      "Haludaria Barb 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 2.03,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 246,
+    "name": "Haludaria Barb 14",
+    "scientific_name": "Haludaria species_14",
+    "common_names": [
+      "Haludaria Barb 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 1.37,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 247,
+    "name": "Haludaria Barb 15",
+    "scientific_name": "Haludaria species_15",
+    "common_names": [
+      "Haludaria Barb 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 29,
+    "max_weight_kg": 0.99,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Haludaria genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 248,
+    "name": "Rasbora 1",
+    "scientific_name": "Rasbora species_1",
+    "common_names": [
+      "Rasbora 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 2.46,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 249,
+    "name": "Rasbora 2",
+    "scientific_name": "Rasbora species_2",
+    "common_names": [
+      "Rasbora 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 0.31,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 250,
+    "name": "Rasbora 3",
+    "scientific_name": "Rasbora species_3",
+    "common_names": [
+      "Rasbora 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 1.33,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 251,
+    "name": "Rasbora 4",
+    "scientific_name": "Rasbora species_4",
+    "common_names": [
+      "Rasbora 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.59,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 252,
+    "name": "Rasbora 5",
+    "scientific_name": "Rasbora species_5",
+    "common_names": [
+      "Rasbora 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 1.79,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 253,
+    "name": "Rasbora 6",
+    "scientific_name": "Rasbora species_6",
+    "common_names": [
+      "Rasbora 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 2.03,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 254,
+    "name": "Rasbora 7",
+    "scientific_name": "Rasbora species_7",
+    "common_names": [
+      "Rasbora 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 0.1,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 255,
+    "name": "Rasbora 8",
+    "scientific_name": "Rasbora species_8",
+    "common_names": [
+      "Rasbora 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 0.46,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 256,
+    "name": "Rasbora 9",
+    "scientific_name": "Rasbora species_9",
+    "common_names": [
+      "Rasbora 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 0.53,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 257,
+    "name": "Rasbora 10",
+    "scientific_name": "Rasbora species_10",
+    "common_names": [
+      "Rasbora 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 2.25,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 258,
+    "name": "Rasbora 11",
+    "scientific_name": "Rasbora species_11",
+    "common_names": [
+      "Rasbora 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 28,
+    "max_weight_kg": 1.46,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 259,
+    "name": "Rasbora 12",
+    "scientific_name": "Rasbora species_12",
+    "common_names": [
+      "Rasbora 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 1.16,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 260,
+    "name": "Rasbora 13",
+    "scientific_name": "Rasbora species_13",
+    "common_names": [
+      "Rasbora 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 0.34,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 261,
+    "name": "Rasbora 14",
+    "scientific_name": "Rasbora species_14",
+    "common_names": [
+      "Rasbora 14"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 0.23,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 262,
+    "name": "Rasbora 15",
+    "scientific_name": "Rasbora species_15",
+    "common_names": [
+      "Rasbora 15"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 0.83,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 263,
+    "name": "Rasbora 16",
+    "scientific_name": "Rasbora species_16",
+    "common_names": [
+      "Rasbora 16"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 0.86,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 264,
+    "name": "Rasbora 17",
+    "scientific_name": "Rasbora species_17",
+    "common_names": [
+      "Rasbora 17"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 29,
+    "max_weight_kg": 0.99,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 265,
+    "name": "Rasbora 18",
+    "scientific_name": "Rasbora species_18",
+    "common_names": [
+      "Rasbora 18"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 2.07,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 266,
+    "name": "Rasbora 19",
+    "scientific_name": "Rasbora species_19",
+    "common_names": [
+      "Rasbora 19"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 14,
+    "max_weight_kg": 1.6,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 267,
+    "name": "Rasbora 20",
+    "scientific_name": "Rasbora species_20",
+    "common_names": [
+      "Rasbora 20"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 1.27,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 268,
+    "name": "Rasbora 21",
+    "scientific_name": "Rasbora species_21",
+    "common_names": [
+      "Rasbora 21"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 0.25,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 269,
+    "name": "Rasbora 22",
+    "scientific_name": "Rasbora species_22",
+    "common_names": [
+      "Rasbora 22"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 1.41,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 270,
+    "name": "Rasbora 23",
+    "scientific_name": "Rasbora species_23",
+    "common_names": [
+      "Rasbora 23"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 22,
+    "max_weight_kg": 2.09,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 271,
+    "name": "Rasbora 24",
+    "scientific_name": "Rasbora species_24",
+    "common_names": [
+      "Rasbora 24"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 0.31,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 272,
+    "name": "Rasbora 25",
+    "scientific_name": "Rasbora species_25",
+    "common_names": [
+      "Rasbora 25"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 20,
+    "max_weight_kg": 1.5,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 273,
+    "name": "Rasbora 26",
+    "scientific_name": "Rasbora species_26",
+    "common_names": [
+      "Rasbora 26"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 2.28,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 274,
+    "name": "Rasbora 27",
+    "scientific_name": "Rasbora species_27",
+    "common_names": [
+      "Rasbora 27"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 1.89,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 275,
+    "name": "Rasbora 28",
+    "scientific_name": "Rasbora species_28",
+    "common_names": [
+      "Rasbora 28"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 19,
+    "max_weight_kg": 0.31,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 276,
+    "name": "Rasbora 29",
+    "scientific_name": "Rasbora species_29",
+    "common_names": [
+      "Rasbora 29"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 2.09,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 277,
+    "name": "Rasbora 30",
+    "scientific_name": "Rasbora species_30",
+    "common_names": [
+      "Rasbora 30"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.56,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 278,
+    "name": "Rasbora 31",
+    "scientific_name": "Rasbora species_31",
+    "common_names": [
+      "Rasbora 31"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 7,
+    "max_weight_kg": 0.05,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 279,
+    "name": "Rasbora 32",
+    "scientific_name": "Rasbora species_32",
+    "common_names": [
+      "Rasbora 32"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.61,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 280,
+    "name": "Rasbora 33",
+    "scientific_name": "Rasbora species_33",
+    "common_names": [
+      "Rasbora 33"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 1.76,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 281,
+    "name": "Rasbora 34",
+    "scientific_name": "Rasbora species_34",
+    "common_names": [
+      "Rasbora 34"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 0.09,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 282,
+    "name": "Rasbora 35",
+    "scientific_name": "Rasbora species_35",
+    "common_names": [
+      "Rasbora 35"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 2.32,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 283,
+    "name": "Rasbora 36",
+    "scientific_name": "Rasbora species_36",
+    "common_names": [
+      "Rasbora 36"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 0.97,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 284,
+    "name": "Rasbora 37",
+    "scientific_name": "Rasbora species_37",
+    "common_names": [
+      "Rasbora 37"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 6,
+    "max_weight_kg": 0.53,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 285,
+    "name": "Rasbora 38",
+    "scientific_name": "Rasbora species_38",
+    "common_names": [
+      "Rasbora 38"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 2.39,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 286,
+    "name": "Rasbora 39",
+    "scientific_name": "Rasbora species_39",
+    "common_names": [
+      "Rasbora 39"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 12,
+    "max_weight_kg": 0.08,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 287,
+    "name": "Rasbora 40",
+    "scientific_name": "Rasbora species_40",
+    "common_names": [
+      "Rasbora 40"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 9,
+    "max_weight_kg": 0.13,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Rasbora genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 288,
+    "name": "Devario 1",
+    "scientific_name": "Devario species_1",
+    "common_names": [
+      "Devario 1"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 11,
+    "max_weight_kg": 2.43,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 289,
+    "name": "Devario 2",
+    "scientific_name": "Devario species_2",
+    "common_names": [
+      "Devario 2"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 1.01,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 290,
+    "name": "Devario 3",
+    "scientific_name": "Devario species_3",
+    "common_names": [
+      "Devario 3"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 8,
+    "max_weight_kg": 1.33,
+    "max_age_years": 4,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 291,
+    "name": "Devario 4",
+    "scientific_name": "Devario species_4",
+    "common_names": [
+      "Devario 4"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 2.42,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400"
+  },
+  {
+    "id": 292,
+    "name": "Devario 5",
+    "scientific_name": "Devario species_5",
+    "common_names": [
+      "Devario 5"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges basin"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 1.36,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 293,
+    "name": "Devario 6",
+    "scientific_name": "Devario species_6",
+    "common_names": [
+      "Devario 6"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 1.32,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 294,
+    "name": "Devario 7",
+    "scientific_name": "Devario species_7",
+    "common_names": [
+      "Devario 7"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 10,
+    "max_weight_kg": 1.57,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 295,
+    "name": "Devario 8",
+    "scientific_name": "Devario species_8",
+    "common_names": [
+      "Devario 8"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular India"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 0.15,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  },
+  {
+    "id": 296,
+    "name": "Devario 9",
+    "scientific_name": "Devario species_9",
+    "common_names": [
+      "Devario 9"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 0.17,
+    "max_age_years": 8,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 297,
+    "name": "Devario 10",
+    "scientific_name": "Devario species_10",
+    "common_names": [
+      "Devario 10"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 32,
+    "max_weight_kg": 2.17,
+    "max_age_years": 3,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local consumption",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 298,
+    "name": "Devario 11",
+    "scientific_name": "Devario species_11",
+    "common_names": [
+      "Devario 11"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Coastal streams"
+    ],
+    "max_length_cm": 18,
+    "max_weight_kg": 1.83,
+    "max_age_years": 6,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Endemic species",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 299,
+    "name": "Devario 12",
+    "scientific_name": "Devario species_12",
+    "common_names": [
+      "Devario 12"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats",
+      "Kerala",
+      "Karnataka"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 0.38,
+    "max_age_years": 5,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Endemic",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400"
+  },
+  {
+    "id": 300,
+    "name": "Devario 13",
+    "scientific_name": "Devario species_13",
+    "common_names": [
+      "Devario 13"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "North-East India",
+      "Assam"
+    ],
+    "max_length_cm": 24,
+    "max_weight_kg": 2.01,
+    "max_age_years": 7,
+    "diet": "Omnivore - Insects, algae, small invertebrates",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Aquarium trade",
+    "description": "Small cyprinid fish found in Devario genus. Important component of stream ecosystems in India.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400"
+  }
+]

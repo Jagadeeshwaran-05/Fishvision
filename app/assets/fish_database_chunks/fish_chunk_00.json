@@ -1,0 +1,2252 @@
+[
+  {
+    "name": "Rohu",
+    "scientific_name": "Labeo rohita",
+    "common_names": [
+      "Rohu",
+      "Rui",
+      "Ruee"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra",
+      "Indus",
+      "Rivers throughout India"
+    ],
+    "max_length_cm": 200,
+    "max_weight_kg": 45.0,
+    "max_age_years": 12,
+    "diet": "Omnivore - Phytoplankton, zooplankton, algae, aquatic plants",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Major aquaculture species",
+    "description": "Rohu is one of the most important freshwater fish in India. Extensively cultured in ponds and reservoirs. Silver-colored with a distinctive arched back and large scales.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400",
+    "id": 1
+  },
+  {
+    "name": "Catla",
+    "scientific_name": "Catla catla",
+    "common_names": [
+      "Catla",
+      "Bhakur",
+      "Thalla"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Brahmaputra",
+      "Yamuna",
+      "Northern India Rivers"
+    ],
+    "max_length_cm": 182,
+    "max_weight_kg": 38.0,
+    "max_age_years": 15,
+    "diet": "Filter feeder - Zooplankton, surface feeders",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Very High - Major carp in composite fish culture",
+    "description": "Catla is the fastest-growing Indian major carp. Silver-colored fish with large head and upturned mouth. Important in aquaculture.",
+    "image_url": "https://images.unsplash.com/photo-1520990269312-a0d3cd73278b?w=400",
+    "id": 2
+  },
+  {
+    "name": "Mrigal",
+    "scientific_name": "Cirrhinus mrigala",
+    "common_names": [
+      "Mrigal",
+      "Mirga",
+      "White Carp"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges",
+      "Rivers of Punjab",
+      "Haryana",
+      "Uttar Pradesh"
+    ],
+    "max_length_cm": 99,
+    "max_weight_kg": 12.7,
+    "max_age_years": 14,
+    "diet": "Bottom feeder - Detritus, algae, decaying vegetation",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Third species in composite fish culture",
+    "description": "Mrigal is one of the three Indian major carps. Bottom dweller with inferior mouth. Silvery body with darker back.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400",
+    "id": 3
+  },
+  {
+    "name": "Common Carp",
+    "scientific_name": "Cyprinus carpio",
+    "common_names": [
+      "Common Carp",
+      "European Carp"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Introduced throughout India",
+      "Kashmir",
+      "Punjab",
+      "Himachal Pradesh"
+    ],
+    "max_length_cm": 120,
+    "max_weight_kg": 40.0,
+    "max_age_years": 20,
+    "diet": "Omnivore - Insects, crustaceans, plants, detritus",
+    "conservation_status": "Vulnerable",
+    "commercial_importance": "High - Aquaculture, sport fishing",
+    "description": "Introduced species now widespread in India. Hardy fish adaptable to various conditions. Important in cold-water aquaculture.",
+    "image_url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=400",
+    "id": 4
+  },
+  {
+    "name": "Grass Carp",
+    "scientific_name": "Ctenopharyngodon idella",
+    "common_names": [
+      "Grass Carp",
+      "White Amur"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Introduced in India",
+      "Punjab",
+      "Haryana",
+      "Uttar Pradesh"
+    ],
+    "max_length_cm": 150,
+    "max_weight_kg": 45.0,
+    "max_age_years": 21,
+    "diet": "Herbivore - Aquatic vegetation, grass",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Aquaculture, weed control",
+    "description": "Introduced for aquatic weed control. Elongated body with large scales. Important in polyculture systems.",
+    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400",
+    "id": 5
+  },
+  {
+    "name": "Silver Carp",
+    "scientific_name": "Hypophthalmichthys molitrix",
+    "common_names": [
+      "Silver Carp",
+      "Flying Carp"
+    ],
+    "family": "Cyprinidae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Introduced throughout India",
+      "Major river systems"
+    ],
+    "max_length_cm": 105,
+    "max_weight_kg": 30.0,
+    "max_age_years": 20,
+    "diet": "Filter feeder - Phytoplankton, algae",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Aquaculture",
+    "description": "Filter-feeding carp with silver scales. Important in composite fish culture for plankton control.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400",
+    "id": 6
+  },
+  {
+    "id": 7,
+    "name": "Mystus Catfish 1",
+    "scientific_name": "Mystus species_1",
+    "common_names": [
+      "Mystus Catfish 1",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 117,
+    "max_weight_kg": 14.3,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 8,
+    "name": "Mystus Catfish 2",
+    "scientific_name": "Mystus species_2",
+    "common_names": [
+      "Mystus Catfish 2",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 178,
+    "max_weight_kg": 5.0,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 9,
+    "name": "Mystus Catfish 3",
+    "scientific_name": "Mystus species_3",
+    "common_names": [
+      "Mystus Catfish 3",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 174,
+    "max_weight_kg": 19.0,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 10,
+    "name": "Mystus Catfish 4",
+    "scientific_name": "Mystus species_4",
+    "common_names": [
+      "Mystus Catfish 4",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 116,
+    "max_weight_kg": 24.3,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 11,
+    "name": "Mystus Catfish 5",
+    "scientific_name": "Mystus species_5",
+    "common_names": [
+      "Mystus Catfish 5",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 89,
+    "max_weight_kg": 4.5,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 12,
+    "name": "Mystus Catfish 6",
+    "scientific_name": "Mystus species_6",
+    "common_names": [
+      "Mystus Catfish 6",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 141,
+    "max_weight_kg": 16.3,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 13,
+    "name": "Mystus Catfish 7",
+    "scientific_name": "Mystus species_7",
+    "common_names": [
+      "Mystus Catfish 7",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 47,
+    "max_weight_kg": 11.3,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 14,
+    "name": "Mystus Catfish 8",
+    "scientific_name": "Mystus species_8",
+    "common_names": [
+      "Mystus Catfish 8",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 175,
+    "max_weight_kg": 7.6,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 15,
+    "name": "Mystus Catfish 9",
+    "scientific_name": "Mystus species_9",
+    "common_names": [
+      "Mystus Catfish 9",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 2.5,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 16,
+    "name": "Mystus Catfish 10",
+    "scientific_name": "Mystus species_10",
+    "common_names": [
+      "Mystus Catfish 10",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 4.6,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 17,
+    "name": "Mystus Catfish 11",
+    "scientific_name": "Mystus species_11",
+    "common_names": [
+      "Mystus Catfish 11",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 2.7,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 18,
+    "name": "Mystus Catfish 12",
+    "scientific_name": "Mystus species_12",
+    "common_names": [
+      "Mystus Catfish 12",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 161,
+    "max_weight_kg": 7.5,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 19,
+    "name": "Mystus Catfish 13",
+    "scientific_name": "Mystus species_13",
+    "common_names": [
+      "Mystus Catfish 13",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 15.8,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 20,
+    "name": "Mystus Catfish 14",
+    "scientific_name": "Mystus species_14",
+    "common_names": [
+      "Mystus Catfish 14",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 169,
+    "max_weight_kg": 11.2,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 21,
+    "name": "Mystus Catfish 15",
+    "scientific_name": "Mystus species_15",
+    "common_names": [
+      "Mystus Catfish 15",
+      "Mystus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 88,
+    "max_weight_kg": 23.5,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Mystus Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 22,
+    "name": "Goonch Catfish 1",
+    "scientific_name": "Bagarius species_1",
+    "common_names": [
+      "Goonch Catfish 1",
+      "Bagarius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 109,
+    "max_weight_kg": 9.5,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Goonch Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 23,
+    "name": "Goonch Catfish 2",
+    "scientific_name": "Bagarius species_2",
+    "common_names": [
+      "Goonch Catfish 2",
+      "Bagarius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 175,
+    "max_weight_kg": 22.3,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Goonch Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 24,
+    "name": "Goonch Catfish 3",
+    "scientific_name": "Bagarius species_3",
+    "common_names": [
+      "Goonch Catfish 3",
+      "Bagarius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 149,
+    "max_weight_kg": 8.5,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Goonch Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 25,
+    "name": "Goonch Catfish 4",
+    "scientific_name": "Bagarius species_4",
+    "common_names": [
+      "Goonch Catfish 4",
+      "Bagarius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 45,
+    "max_weight_kg": 22.3,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Goonch Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 26,
+    "name": "Goonch Catfish 5",
+    "scientific_name": "Bagarius species_5",
+    "common_names": [
+      "Goonch Catfish 5",
+      "Bagarius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 24.7,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Goonch Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 27,
+    "name": "Torrent Catfish 1",
+    "scientific_name": "Glyptothorax species_1",
+    "common_names": [
+      "Torrent Catfish 1",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 154,
+    "max_weight_kg": 7.9,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 28,
+    "name": "Torrent Catfish 2",
+    "scientific_name": "Glyptothorax species_2",
+    "common_names": [
+      "Torrent Catfish 2",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 58,
+    "max_weight_kg": 22.9,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 29,
+    "name": "Torrent Catfish 3",
+    "scientific_name": "Glyptothorax species_3",
+    "common_names": [
+      "Torrent Catfish 3",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 50,
+    "max_weight_kg": 7.1,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 30,
+    "name": "Torrent Catfish 4",
+    "scientific_name": "Glyptothorax species_4",
+    "common_names": [
+      "Torrent Catfish 4",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 61,
+    "max_weight_kg": 21.3,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 31,
+    "name": "Torrent Catfish 5",
+    "scientific_name": "Glyptothorax species_5",
+    "common_names": [
+      "Torrent Catfish 5",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 34,
+    "max_weight_kg": 23.6,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 32,
+    "name": "Torrent Catfish 6",
+    "scientific_name": "Glyptothorax species_6",
+    "common_names": [
+      "Torrent Catfish 6",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 44,
+    "max_weight_kg": 7.5,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 33,
+    "name": "Torrent Catfish 7",
+    "scientific_name": "Glyptothorax species_7",
+    "common_names": [
+      "Torrent Catfish 7",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 103,
+    "max_weight_kg": 23.1,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 34,
+    "name": "Torrent Catfish 8",
+    "scientific_name": "Glyptothorax species_8",
+    "common_names": [
+      "Torrent Catfish 8",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 138,
+    "max_weight_kg": 20.1,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 35,
+    "name": "Torrent Catfish 9",
+    "scientific_name": "Glyptothorax species_9",
+    "common_names": [
+      "Torrent Catfish 9",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 148,
+    "max_weight_kg": 10.0,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 36,
+    "name": "Torrent Catfish 10",
+    "scientific_name": "Glyptothorax species_10",
+    "common_names": [
+      "Torrent Catfish 10",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 160,
+    "max_weight_kg": 14.9,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 37,
+    "name": "Torrent Catfish 11",
+    "scientific_name": "Glyptothorax species_11",
+    "common_names": [
+      "Torrent Catfish 11",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 35,
+    "max_weight_kg": 6.5,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 38,
+    "name": "Torrent Catfish 12",
+    "scientific_name": "Glyptothorax species_12",
+    "common_names": [
+      "Torrent Catfish 12",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 15,
+    "max_weight_kg": 14.3,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 39,
+    "name": "Torrent Catfish 13",
+    "scientific_name": "Glyptothorax species_13",
+    "common_names": [
+      "Torrent Catfish 13",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 138,
+    "max_weight_kg": 23.1,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 40,
+    "name": "Torrent Catfish 14",
+    "scientific_name": "Glyptothorax species_14",
+    "common_names": [
+      "Torrent Catfish 14",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 13.2,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 41,
+    "name": "Torrent Catfish 15",
+    "scientific_name": "Glyptothorax species_15",
+    "common_names": [
+      "Torrent Catfish 15",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 124,
+    "max_weight_kg": 4.4,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 42,
+    "name": "Torrent Catfish 16",
+    "scientific_name": "Glyptothorax species_16",
+    "common_names": [
+      "Torrent Catfish 16",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 39,
+    "max_weight_kg": 7.7,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 43,
+    "name": "Torrent Catfish 17",
+    "scientific_name": "Glyptothorax species_17",
+    "common_names": [
+      "Torrent Catfish 17",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 98,
+    "max_weight_kg": 3.5,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 44,
+    "name": "Torrent Catfish 18",
+    "scientific_name": "Glyptothorax species_18",
+    "common_names": [
+      "Torrent Catfish 18",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 30,
+    "max_weight_kg": 17.3,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 45,
+    "name": "Torrent Catfish 19",
+    "scientific_name": "Glyptothorax species_19",
+    "common_names": [
+      "Torrent Catfish 19",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 176,
+    "max_weight_kg": 13.0,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 46,
+    "name": "Torrent Catfish 20",
+    "scientific_name": "Glyptothorax species_20",
+    "common_names": [
+      "Torrent Catfish 20",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 177,
+    "max_weight_kg": 19.9,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 47,
+    "name": "Torrent Catfish 21",
+    "scientific_name": "Glyptothorax species_21",
+    "common_names": [
+      "Torrent Catfish 21",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 16,
+    "max_weight_kg": 18.6,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 48,
+    "name": "Torrent Catfish 22",
+    "scientific_name": "Glyptothorax species_22",
+    "common_names": [
+      "Torrent Catfish 22",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 26,
+    "max_weight_kg": 23.7,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 49,
+    "name": "Torrent Catfish 23",
+    "scientific_name": "Glyptothorax species_23",
+    "common_names": [
+      "Torrent Catfish 23",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 5.2,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 50,
+    "name": "Torrent Catfish 24",
+    "scientific_name": "Glyptothorax species_24",
+    "common_names": [
+      "Torrent Catfish 24",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 33,
+    "max_weight_kg": 0.9,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 51,
+    "name": "Torrent Catfish 25",
+    "scientific_name": "Glyptothorax species_25",
+    "common_names": [
+      "Torrent Catfish 25",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 129,
+    "max_weight_kg": 21.8,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 52,
+    "name": "Torrent Catfish 26",
+    "scientific_name": "Glyptothorax species_26",
+    "common_names": [
+      "Torrent Catfish 26",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 107,
+    "max_weight_kg": 2.7,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 53,
+    "name": "Torrent Catfish 27",
+    "scientific_name": "Glyptothorax species_27",
+    "common_names": [
+      "Torrent Catfish 27",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 84,
+    "max_weight_kg": 1.9,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 54,
+    "name": "Torrent Catfish 28",
+    "scientific_name": "Glyptothorax species_28",
+    "common_names": [
+      "Torrent Catfish 28",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 2.6,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 55,
+    "name": "Torrent Catfish 29",
+    "scientific_name": "Glyptothorax species_29",
+    "common_names": [
+      "Torrent Catfish 29",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 31,
+    "max_weight_kg": 15.6,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 56,
+    "name": "Torrent Catfish 30",
+    "scientific_name": "Glyptothorax species_30",
+    "common_names": [
+      "Torrent Catfish 30",
+      "Glyptothorax"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 113,
+    "max_weight_kg": 20.1,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Torrent Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 57,
+    "name": "Rita Catfish 1",
+    "scientific_name": "Rita species_1",
+    "common_names": [
+      "Rita Catfish 1",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 51,
+    "max_weight_kg": 3.5,
+    "max_age_years": 9,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 58,
+    "name": "Rita Catfish 2",
+    "scientific_name": "Rita species_2",
+    "common_names": [
+      "Rita Catfish 2",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 54,
+    "max_weight_kg": 23.9,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 59,
+    "name": "Rita Catfish 3",
+    "scientific_name": "Rita species_3",
+    "common_names": [
+      "Rita Catfish 3",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 46,
+    "max_weight_kg": 11.7,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 60,
+    "name": "Rita Catfish 4",
+    "scientific_name": "Rita species_4",
+    "common_names": [
+      "Rita Catfish 4",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 54,
+    "max_weight_kg": 11.2,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 61,
+    "name": "Rita Catfish 5",
+    "scientific_name": "Rita species_5",
+    "common_names": [
+      "Rita Catfish 5",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 63,
+    "max_weight_kg": 10.8,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 62,
+    "name": "Rita Catfish 6",
+    "scientific_name": "Rita species_6",
+    "common_names": [
+      "Rita Catfish 6",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 129,
+    "max_weight_kg": 15.2,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 63,
+    "name": "Rita Catfish 7",
+    "scientific_name": "Rita species_7",
+    "common_names": [
+      "Rita Catfish 7",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 71,
+    "max_weight_kg": 15.1,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 64,
+    "name": "Rita Catfish 8",
+    "scientific_name": "Rita species_8",
+    "common_names": [
+      "Rita Catfish 8",
+      "Rita"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 176,
+    "max_weight_kg": 18.0,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Rita Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 65,
+    "name": "Long-whiskers Catfish 1",
+    "scientific_name": "Sperata species_1",
+    "common_names": [
+      "Long-whiskers Catfish 1",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 129,
+    "max_weight_kg": 6.4,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 66,
+    "name": "Long-whiskers Catfish 2",
+    "scientific_name": "Sperata species_2",
+    "common_names": [
+      "Long-whiskers Catfish 2",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 17,
+    "max_weight_kg": 15.1,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 67,
+    "name": "Long-whiskers Catfish 3",
+    "scientific_name": "Sperata species_3",
+    "common_names": [
+      "Long-whiskers Catfish 3",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 87,
+    "max_weight_kg": 12.2,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 68,
+    "name": "Long-whiskers Catfish 4",
+    "scientific_name": "Sperata species_4",
+    "common_names": [
+      "Long-whiskers Catfish 4",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 95,
+    "max_weight_kg": 4.9,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 69,
+    "name": "Long-whiskers Catfish 5",
+    "scientific_name": "Sperata species_5",
+    "common_names": [
+      "Long-whiskers Catfish 5",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 126,
+    "max_weight_kg": 2.2,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 70,
+    "name": "Long-whiskers Catfish 6",
+    "scientific_name": "Sperata species_6",
+    "common_names": [
+      "Long-whiskers Catfish 6",
+      "Sperata"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 152,
+    "max_weight_kg": 10.8,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Long-whiskers Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 71,
+    "name": "Yellow Catfish 1",
+    "scientific_name": "Horabagrus species_1",
+    "common_names": [
+      "Yellow Catfish 1",
+      "Horabagrus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 173,
+    "max_weight_kg": 23.9,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Yellow Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 72,
+    "name": "Yellow Catfish 2",
+    "scientific_name": "Horabagrus species_2",
+    "common_names": [
+      "Yellow Catfish 2",
+      "Horabagrus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 138,
+    "max_weight_kg": 14.7,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Yellow Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 73,
+    "name": "Yellow Catfish 3",
+    "scientific_name": "Horabagrus species_3",
+    "common_names": [
+      "Yellow Catfish 3",
+      "Horabagrus"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 25,
+    "max_weight_kg": 5.1,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Yellow Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 74,
+    "name": "Butter Catfish 1",
+    "scientific_name": "Ompok species_1",
+    "common_names": [
+      "Butter Catfish 1",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 117,
+    "max_weight_kg": 6.2,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "High - Food fish",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 75,
+    "name": "Butter Catfish 2",
+    "scientific_name": "Ompok species_2",
+    "common_names": [
+      "Butter Catfish 2",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 17.0,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 76,
+    "name": "Butter Catfish 3",
+    "scientific_name": "Ompok species_3",
+    "common_names": [
+      "Butter Catfish 3",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 51,
+    "max_weight_kg": 3.6,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 77,
+    "name": "Butter Catfish 4",
+    "scientific_name": "Ompok species_4",
+    "common_names": [
+      "Butter Catfish 4",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 27,
+    "max_weight_kg": 12.0,
+    "max_age_years": 11,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "High - Food fish",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 78,
+    "name": "Butter Catfish 5",
+    "scientific_name": "Ompok species_5",
+    "common_names": [
+      "Butter Catfish 5",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 41,
+    "max_weight_kg": 6.3,
+    "max_age_years": 6,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 79,
+    "name": "Butter Catfish 6",
+    "scientific_name": "Ompok species_6",
+    "common_names": [
+      "Butter Catfish 6",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 64,
+    "max_weight_kg": 14.1,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 80,
+    "name": "Butter Catfish 7",
+    "scientific_name": "Ompok species_7",
+    "common_names": [
+      "Butter Catfish 7",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 71,
+    "max_weight_kg": 23.4,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 81,
+    "name": "Butter Catfish 8",
+    "scientific_name": "Ompok species_8",
+    "common_names": [
+      "Butter Catfish 8",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 79,
+    "max_weight_kg": 15.2,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 82,
+    "name": "Butter Catfish 9",
+    "scientific_name": "Ompok species_9",
+    "common_names": [
+      "Butter Catfish 9",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 59,
+    "max_weight_kg": 3.8,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 83,
+    "name": "Butter Catfish 10",
+    "scientific_name": "Ompok species_10",
+    "common_names": [
+      "Butter Catfish 10",
+      "Ompok"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 156,
+    "max_weight_kg": 6.6,
+    "max_age_years": 5,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Butter Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 84,
+    "name": "Shark Catfish 1",
+    "scientific_name": "Pangasius species_1",
+    "common_names": [
+      "Shark Catfish 1",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 179,
+    "max_weight_kg": 7.8,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 85,
+    "name": "Shark Catfish 2",
+    "scientific_name": "Pangasius species_2",
+    "common_names": [
+      "Shark Catfish 2",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 180,
+    "max_weight_kg": 3.0,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 86,
+    "name": "Shark Catfish 3",
+    "scientific_name": "Pangasius species_3",
+    "common_names": [
+      "Shark Catfish 3",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Ganges River",
+      "Brahmaputra"
+    ],
+    "max_length_cm": 70,
+    "max_weight_kg": 19.5,
+    "max_age_years": 15,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 87,
+    "name": "Shark Catfish 4",
+    "scientific_name": "Pangasius species_4",
+    "common_names": [
+      "Shark Catfish 4",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 38,
+    "max_weight_kg": 7.2,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 88,
+    "name": "Shark Catfish 5",
+    "scientific_name": "Pangasius species_5",
+    "common_names": [
+      "Shark Catfish 5",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 57,
+    "max_weight_kg": 24.8,
+    "max_age_years": 14,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 89,
+    "name": "Shark Catfish 6",
+    "scientific_name": "Pangasius species_6",
+    "common_names": [
+      "Shark Catfish 6",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 126,
+    "max_weight_kg": 18.7,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 90,
+    "name": "Shark Catfish 7",
+    "scientific_name": "Pangasius species_7",
+    "common_names": [
+      "Shark Catfish 7",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 72,
+    "max_weight_kg": 3.0,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 91,
+    "name": "Shark Catfish 8",
+    "scientific_name": "Pangasius species_8",
+    "common_names": [
+      "Shark Catfish 8",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 76,
+    "max_weight_kg": 4.3,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 92,
+    "name": "Shark Catfish 9",
+    "scientific_name": "Pangasius species_9",
+    "common_names": [
+      "Shark Catfish 9",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 160,
+    "max_weight_kg": 14.6,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 93,
+    "name": "Shark Catfish 10",
+    "scientific_name": "Pangasius species_10",
+    "common_names": [
+      "Shark Catfish 10",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 93,
+    "max_weight_kg": 24.6,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 94,
+    "name": "Shark Catfish 11",
+    "scientific_name": "Pangasius species_11",
+    "common_names": [
+      "Shark Catfish 11",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 130,
+    "max_weight_kg": 23.0,
+    "max_age_years": 13,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Low - Minor fisheries",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 95,
+    "name": "Shark Catfish 12",
+    "scientific_name": "Pangasius species_12",
+    "common_names": [
+      "Shark Catfish 12",
+      "Pangasius"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 44,
+    "max_weight_kg": 16.3,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Shark Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 96,
+    "name": "Wallago Catfish 1",
+    "scientific_name": "Wallago species_1",
+    "common_names": [
+      "Wallago Catfish 1",
+      "Wallago"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Western Ghats streams"
+    ],
+    "max_length_cm": 157,
+    "max_weight_kg": 24.3,
+    "max_age_years": 12,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Data Deficient",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Wallago Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  },
+  {
+    "id": 97,
+    "name": "Wallago Catfish 2",
+    "scientific_name": "Wallago species_2",
+    "common_names": [
+      "Wallago Catfish 2",
+      "Wallago"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Peninsular rivers"
+    ],
+    "max_length_cm": 101,
+    "max_weight_kg": 17.4,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Wallago Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 98,
+    "name": "Wallago Catfish 3",
+    "scientific_name": "Wallago species_3",
+    "common_names": [
+      "Wallago Catfish 3",
+      "Wallago"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 21,
+    "max_weight_kg": 15.4,
+    "max_age_years": 10,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Wallago Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+  },
+  {
+    "id": 99,
+    "name": "Wallago Catfish 4",
+    "scientific_name": "Wallago species_4",
+    "common_names": [
+      "Wallago Catfish 4",
+      "Wallago"
+    ],
+    "family": "Siluridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Himalayan rivers"
+    ],
+    "max_length_cm": 44,
+    "max_weight_kg": 1.1,
+    "max_age_years": 8,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Near Threatened",
+    "commercial_importance": "High - Food fish",
+    "description": "Wallago Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=400"
+  },
+  {
+    "id": 100,
+    "name": "Walking Catfish 1",
+    "scientific_name": "Clarias species_1",
+    "common_names": [
+      "Walking Catfish 1",
+      "Clarias"
+    ],
+    "family": "Bagridae",
+    "habitat": "Freshwater",
+    "native_regions": [
+      "Godavari River",
+      "Krishna River"
+    ],
+    "max_length_cm": 134,
+    "max_weight_kg": 8.3,
+    "max_age_years": 7,
+    "diet": "Carnivore - Fish, crustaceans, insects",
+    "conservation_status": "Least Concern",
+    "commercial_importance": "Medium - Local fisheries",
+    "description": "Walking Catfish found in Indian freshwater systems. Bottom-dwelling predatory fish with whisker-like barbels.",
+    "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400"
+  }
+]
